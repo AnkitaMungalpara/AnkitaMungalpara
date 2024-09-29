@@ -17,10 +17,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
---> 
+- 🔭 I’m currently pursuing **MS in Data Science** at **University of Massachusetts Dartmouth**.
+  
+- 🌱 I’m currently learning advanced **Deep Learning** architectures and mastering **MLOps** with cloud platforms like **Azure ML** and **AWS SageMaker**.
+
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ankita-mungalpara/)
+
+- 😄 Pronouns: She/Her
+
+- 👯 I’m looking to collaborate on **research** projects, particularly in **Generative AI**, **NLP**, and **Computer Vision**, leveraging cloud-based infrastructures.
+
+- 🤔 I’m looking for help with integrating **LLMOps** frameworks for more scalable and efficient **machine learning** solutions.
+
+- 💬 Ask me about **large language models**, **end-to-end data science pipelines**, or my work on **synthetic aperture radar** for forest height estimation.
+
+- ⚡ Fun fact: I’ve worked on projects ranging from predicting forest heights with **ISRO** to analyzing NYC traffic patterns with **Azure Databricks**—and I still manage to find time to experiment with **deep learning models** in my spare time!
+
+-->
+
 # 👋 Hi there, I'm Ankita
 
 Welcome to my GitHub profile!
+
+
+<html>
+<ul style="list-style-type: none;">
+    <li style="color: #2E8B57;">🔭 I’m currently pursuing <strong>MS in Data Science</strong> at <strong>University of Massachusetts Dartmouth</strong>.</li>
+    <li style="color: #4682B4;">🌱 I’m currently learning advanced <strong>Deep Learning</strong> architectures and mastering <strong>MLOps</strong> with cloud platforms like <strong>Azure ML</strong> and <strong>AWS</strong>.</li>
+    <li style="color: #FFD700;">📫 How to reach me: <a href="https://www.linkedin.com/in/ankita-mungalpara/" style="color: #FFFFFF;">[LinkedIn]</a></li>
+    <li style="color: #8A2BE2;">😄 Pronouns: <strong>She/Her</strong></li>
+</ul>
+</html>
 
 <!--I'm a [your role/profession] passionate about [your interests/specialties]. 
 
@@ -61,7 +88,7 @@ Welcome to my GitHub profile!
 [![LangChain-AI](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=langchain-ai)](https://github.com/AnkitaMungalpara/LangChain-AI)
 
 ## 📈 GitHub Contributions
-![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaMungalpara&theme=radical)
+![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaMungalpara&theme=tokyonight)
 
 ## 🔭 Current Projects
 [![dockerized-mnist-classification-pytorch](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=dockerized-mnist-classification-pytorch)](https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch)
