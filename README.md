@@ -59,6 +59,8 @@ Welcome to my GitHub profile!
 ![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaMungalpara&theme=tokyonight)
 
 ## 🔭 Current Projects
+[![Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=dog-breed-classification-training-inference-with-pytorch-lightning)](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
+
 [![dockerized-mnist-classification-pytorch](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=dockerized-mnist-classification-pytorch)](https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch)
 
 [![Dockerized-training-evaluation-inference-with-PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=dockerized-training-evaluation-inference-with-pytorch)](https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch)
