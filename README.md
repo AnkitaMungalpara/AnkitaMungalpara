@@ -93,7 +93,7 @@ Welcome to my GitHub profile!
 
 <tr>
     <td>
-      <a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/">
+      <a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/">
         Dog Breed Classification Training & Inference with PyTorch Lightning
       </a>
     </td>
