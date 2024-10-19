@@ -38,6 +38,7 @@ Welcome to my GitHub profile!
 [![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat&logo=openai&logoColor=white)](https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch)
 [![LangChain](https://img.shields.io/badge/-LangChain-121011?style=flat&logo=chain&logoColor=white)](https://github.com/AnkitaMungalpara/LangChain-AI)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://github.com/AnkitaMungalpara/PyTorch-DeepLearning)
+[![PyTorch Lightning](https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white)](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://github.com/AnkitaMungalpara/HuggingFace-NLP)
 [![Object Detection](https://img.shields.io/badge/-Object%20Detection-34495E?style=flat&logo=opencv&logoColor=white)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -59,11 +60,70 @@ Welcome to my GitHub profile!
 ![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaMungalpara&theme=tokyonight)
 
 ## 🔭 Current Projects
-[![Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=dog-breed-classification-training-inference-with-pytorch-lightning)](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
 
-[![dockerized-mnist-classification-pytorch](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=dockerized-mnist-classification-pytorch)](https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch)
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/">
+        Dog Breed Classification PyTorch Lightning Hydra Integration
+      </a>
+    </td>
+    <td>
+      This project implements a state-of-the-art dog breed classification model using PyTorch Lightning and Hydra. It's designed to accurately identify dog breeds from images, utilizing deep learning.
+    </td>
+    <td>
+      <!-- ML Framework -->
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white" alt="PyTorch Lightning"/>
+      <!-- Infrastructure & DevOps -->
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
+      <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white" alt="CI/CD"/>
+      <!-- Tools & Utilities -->
+      <img src="https://img.shields.io/badge/-Hydra-3B82F6?style=flat&logo=hydra&logoColor=white" alt="Hydra"/>
+      <img src="https://img.shields.io/badge/-Code%20Coverage-F01F7A?style=flat&logo=codecov&logoColor=white" alt="Code Coverage"/>
+      <img src="https://img.shields.io/badge/-uv%20Package%20Manager-000000?style=flat&logo=python&logoColor=white" alt="uv"/>
+    </td>
+  </tr>
 
-[![Dockerized-training-evaluation-inference-with-PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=dockerized-training-evaluation-inference-with-pytorch)](https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch)
+<tr>
+    <td>
+      <a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/">
+        Dog Breed Classification Training & Inference with PyTorch Lightning
+      </a>
+    </td>
+    <td>
+      This project demonstrates how to set up training, evaluation, and inference for dog breed classification using Docker and PyTorch Lightning. 
+    </td>
+    <td>
+      <!-- Core ML Framework -->
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white" alt="PyTorch Lightning"/>
+      <img src="https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="TorchVision"/>
+      <!-- Infrastructure & DevOps -->
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
+      <!-- ML Libraries -->
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+      <img src="https://img.shields.io/badge/-TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorBoard"/>
+      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
+    </td>
+  </tr>
+</table>
+
+<!--
+3. [Dog Breed Classification Training & Inference with PyTorch Lightning](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
+   
+4. [Dockerized MNIST Classification PyTorch](https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch)
+   
+5. [Dockerized Training Evaluation Inference with PyTorch](https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch)
+-->
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ankita-mungalpara/)
