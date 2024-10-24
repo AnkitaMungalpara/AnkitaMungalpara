@@ -115,15 +115,36 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch/">
+        MNIST Classification -Dockerized Training Evaluation Inference with PyTorch
+      </a>
+    </td>
+    <td>This project offers a Docker Compose setup for managing training, evaluation, and inference on both the MNIST Hogwild dataset and dog breed classification tasks using PyTorch.
+    </td>
+    <td>
+      <!-- Core ML Framework -->
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="TorchVision"/>
+      <!-- Infrastructure & DevOps -->
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
+      <!-- ML Libraries -->
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
+    </td>
+  </tr>
 </table>
+
 
 <!--
 3. [Dog Breed Classification Training & Inference with PyTorch Lightning](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
    
 4. [Dockerized MNIST Classification PyTorch](https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch)
-   
-5. [Dockerized Training Evaluation Inference with PyTorch](https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch)
--->
+
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ankita-mungalpara/)
