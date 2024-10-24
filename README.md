@@ -146,12 +146,11 @@ Welcome to my GitHub profile!
   </tr>
 </table>
 
-
 <!--
 3. [Dog Breed Classification Training & Inference with PyTorch Lightning](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
    
 4. [Dockerized MNIST Classification PyTorch](https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch)
-
+-->
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ankita-mungalpara/)
