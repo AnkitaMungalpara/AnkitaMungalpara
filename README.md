@@ -151,7 +151,7 @@ Welcome to my GitHub profile!
         Dockerized Training for MNIST Digit Classification with PyTorch
       </a>
     </td>
-    <td>This project develops a CNN training for MNIST dataset digit classification using PyTorch, fully containerized with Docker. It supports training from scratch, resuming from checkpoints, and evaluation.
+    <td>This project trains a Convolution Neural Network (CNN) for MNIST dataset digit classification using PyTorch, fully containerized with Docker. It supports training from scratch, resuming from checkpoints, and evaluation.
     </td>
     <td>
       <!-- Core ML Framework -->
