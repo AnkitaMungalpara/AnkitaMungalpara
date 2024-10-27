@@ -144,6 +144,24 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch/">
+        Dockerized Training for MNIST Digit Classification with PyTorch
+      </a>
+    </td>
+    <td>This project develops a CNN training for MNIST dataset digit classification using PyTorch, fully containerized with Docker. It supports training from scratch, resuming from checkpoints, and evaluation.
+    </td>
+    <td>
+      <!-- Core ML Framework -->
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="TorchVision"/>
+      <!-- Infrastructure & DevOps -->
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+  </tr>
+
 </table>
 
 <!--
