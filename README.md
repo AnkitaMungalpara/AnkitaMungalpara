@@ -129,7 +129,7 @@ Welcome to my GitHub profile!
         MNIST Classification -Dockerized Training Evaluation Inference with PyTorch
       </a>
     </td>
-    <td>This project offers a Docker Compose setup for managing training, evaluation, and inference on both the MNIST Hogwild dataset and dog breed classification tasks using PyTorch.
+    <td>This project offers a Docker Compose setup for managing training, evaluation, and inference on both the MNIST Hogwild dataset using PyTorch.
     </td>
     <td>
       <!-- Core ML Framework -->
