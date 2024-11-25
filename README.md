@@ -171,6 +171,25 @@ Welcome to my GitHub profile!
     <th>Description</th>
     <th>Tech Stack</th>
   </tr>
+ <tr>
+    <td>
+      <a href="https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/tree/7be961e0cfb337bb4ac781e7bcb936671201945d">
+        Hyperparameter Tuning and Optimization with Experiment Tracking
+      </a>
+    </td>
+    <td>
+      This project explores Hyperparameter Optimization for a CatDog Classification model. It highlights streamlined workflows for experiment tracking, model tuning, and reporting with ML tools.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-AIM-FF6F61?style=flat&logo=aim&logoColor=white" alt="Aim"/>
+      <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" alt="MLflow"/>
+      <img src="https://img.shields.io/badge/-DVC-13ADC7?style=flat&logo=dvc&logoColor=white" alt="DVC"/>
+      <img src="https://img.shields.io/badge/-Continuous%20ML-5A9E6F?style=flat&logo=gitlab&logoColor=white" alt="Continuous ML"/>
+      <img src="https://img.shields.io/badge/-Hydra-3B82F6?style=flat&logo=hydra&logoColor=white" alt="Hydra"/>
+      <img src="https://img.shields.io/badge/-Optuna-7D69A2?style=flat&logo=optuna&logoColor=white" alt="Optuna"/>
+    </td>
+  </tr>
+
   <tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/">
