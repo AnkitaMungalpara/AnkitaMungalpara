@@ -174,7 +174,7 @@ Welcome to my GitHub profile!
   <tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/">
-        Dog Breed Classification PyTorch Lightning Hydra Integration
+        Deep Learning Classification with PyTorch Lightning and Hydra Integration
       </a>
     </td>
     <td>
@@ -198,7 +198,7 @@ Welcome to my GitHub profile!
 <tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/">
-        Dog Breed Classification Training & Inference with PyTorch Lightning
+        Deep Learning Classification - Training & Inference with PyTorch Lightning
       </a>
     </td>
     <td>
@@ -223,7 +223,7 @@ Welcome to my GitHub profile!
   <tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch/">
-        MNIST Classification -Dockerized Training Evaluation Inference with PyTorch
+        MNIST Classification - Dockerized Training Evaluation Inference with PyTorch
       </a>
     </td>
     <td>This project offers a Docker Compose setup for managing training, evaluation, and inference on both the MNIST Hogwild dataset using PyTorch.
