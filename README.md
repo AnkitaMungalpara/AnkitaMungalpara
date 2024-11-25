@@ -178,7 +178,7 @@ Welcome to my GitHub profile!
       </a>
     </td>
     <td>
-      This project explores Hyperparameter Optimization for a CatDog Classification model. It highlights streamlined workflows for experiment tracking, model tuning, and reporting with ML tools.
+      This project explores Hyperparameter Optimization for a deep learning Classification model. It highlights streamlined workflows for experiment tracking, model tuning, and reporting with ML tools.
     </td>
     <td>
       <img src="https://img.shields.io/badge/-AIM-FF6F61?style=flat&logo=aim&logoColor=white" alt="Aim"/>
