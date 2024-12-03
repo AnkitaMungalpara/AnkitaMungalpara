@@ -174,7 +174,7 @@ Welcome to my GitHub profile!
  <tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/tree/7be961e0cfb337bb4ac781e7bcb936671201945d">
-        Hyperparameter Tuning and Optimization with Experiment Tracking
+        Module 5 - Experiment Tracking and Hyperparameter Optimization
       </a>
     </td>
     <td>
@@ -193,7 +193,7 @@ Welcome to my GitHub profile!
   <tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/">
-        Deep Learning Classification with PyTorch Lightning and Hydra Integration
+        Module 4 - PyTorch Lightning with Hydra Integration
       </a>
     </td>
     <td>
@@ -217,7 +217,7 @@ Welcome to my GitHub profile!
 <tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/">
-        Deep Learning Classification - Training & Inference with PyTorch Lightning
+        Module 3 - Training and Inference with PyTorch Lightning
       </a>
     </td>
     <td>
@@ -242,7 +242,7 @@ Welcome to my GitHub profile!
   <tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch/">
-        MNIST Classification - Dockerized Training Evaluation Inference with PyTorch
+        Module 2 - Dockerized Training Evaluation and Inference with PyTorch
       </a>
     </td>
     <td>This project offers a Docker Compose setup for managing training, evaluation, and inference on both the MNIST Hogwild dataset using PyTorch.
@@ -264,7 +264,7 @@ Welcome to my GitHub profile!
   <tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch/">
-        Dockerized Training for MNIST Digit Classification with PyTorch
+        Module 1 - Dockerized Training with PyTorch
       </a>
     </td>
     <td>This project trains a Convolution Neural Network (CNN) for MNIST dataset digit classification using PyTorch, fully containerized with Docker. It supports training from scratch, resuming from checkpoints, and evaluation.
