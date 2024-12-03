@@ -171,10 +171,11 @@ Welcome to my GitHub profile!
     <th>Description</th>
     <th>Tech Stack</th>
   </tr>
- <tr>
+
+<tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/tree/7be961e0cfb337bb4ac781e7bcb936671201945d">
-        Module 5 - Experiment Tracking and Hyperparameter Optimization
+        Module 6 - Experiment Tracking and Hyperparameter Optimization
       </a>
     </td>
     <td>
@@ -189,6 +190,23 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-Optuna-7D69A2?style=flat&logo=optuna&logoColor=white" alt="Optuna"/>
     </td>
   </tr>
+  
+ <tr>
+    <td>
+      <a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/tree/2f19be524bf3a8d67eae77d8b62b6f562d1aaefe">
+        Module 5 - Data Version Control
+      </a>
+    </td>
+    <td>
+      This project implements a deep learning model to classify images using PyTorch Lightning, Hydra for configuration management, and DVC for data version control.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-DVC-13ADC7?style=flat&logo=dvc&logoColor=white" alt="DVC"/>
+      <img src="https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white" alt="PyTorch Lightning"/>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/-Hydra-3B82F6?style=flat&logo=hydra&logoColor=white" alt="Hydra"/>
+    </td>
+  </tr>
 
   <tr>
     <td>
@@ -200,6 +218,7 @@ Welcome to my GitHub profile!
       This project implements a state-of-the-art dog breed classification model using PyTorch Lightning and Hydra. It's designed to accurately identify dog breeds from images, utilizing deep learning.
     </td>
     <td>
+      <img src="https://img.shields.io/badge/-Hydra-3B82F6?style=flat&logo=hydra&logoColor=white" alt="Hydra"/>
       <!-- ML Framework -->
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
       <img src="https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white" alt="PyTorch Lightning"/>
@@ -208,7 +227,6 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
       <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white" alt="CI/CD"/>
       <!-- Tools & Utilities -->
-      <img src="https://img.shields.io/badge/-Hydra-3B82F6?style=flat&logo=hydra&logoColor=white" alt="Hydra"/>
       <img src="https://img.shields.io/badge/-Code%20Coverage-F01F7A?style=flat&logo=codecov&logoColor=white" alt="Code Coverage"/>
       <img src="https://img.shields.io/badge/-uv%20Package%20Manager-000000?style=flat&logo=python&logoColor=white" alt="uv"/>
     </td>
