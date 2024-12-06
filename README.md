@@ -252,70 +252,8 @@ Welcome to my GitHub profile!
     </td>
   </tr>
 </table>
-<!--
-<tr>
-    <td>
-      <a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/">
-        Module 3 - Training and Inference with PyTorch Lightning
-      </a>
-    </td>
-    <td>
-      This project demonstrates how to set up training, evaluation, and inference for dog breed classification using Docker and PyTorch Lightning. 
-    </td>
-    <td>
-      <!-- Core ML Framework -->
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white" alt="PyTorch Lightning"/>
-      <img src="https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="TorchVision"/>
-      <!-- Infrastructure & DevOps -->
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
-      <!-- ML Libraries -->
-      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
-      <img src="https://img.shields.io/badge/-TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorBoard"/>
-      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
-    </td>
-  </tr>
 
-  <tr>
-    <td>
-      <a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch/">
-        Module 2 - Dockerized Training Evaluation and Inference with PyTorch
-      </a>
-    </td>
-    <td>This project offers a Docker Compose setup for managing training, evaluation, and inference on both the MNIST Hogwild dataset using PyTorch.
-    </td>
-    <td>
-      <!-- Core ML Framework -->
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="TorchVision"/>
-      <!-- Infrastructure & DevOps -->
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
-      <!-- ML Libraries -->
-      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
-      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
-    </td>
-  </tr>
 
-  <tr>
-    <td>
-      <a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch/">
-        Module 1 - Dockerized Training with PyTorch
-      </a>
-    </td>
-    <td>This project trains a Convolution Neural Network (CNN) for MNIST dataset digit classification using PyTorch, fully containerized with Docker. It supports training from scratch, resuming from checkpoints, and evaluation.
-    </td>
-    <td>
-      <!-- Core ML Framework -->
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="TorchVision"/>
-      <!-- Infrastructure & DevOps -->
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-    </td>
-  </tr>
 -->
 
 <!--
