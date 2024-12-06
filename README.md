@@ -62,7 +62,7 @@ Welcome to my GitHub profile!
     - [Dog Breed Classification](https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration)
     - [HyperParameter Tuning](https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking)
     - [CatDog Classification](https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl)
--->
+
 
 ## MLOps  
 - **Docker & CI/CD**
@@ -79,14 +79,16 @@ Welcome to my GitHub profile!
       ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
       ![CML](https://img.shields.io/badge/-CML-13ADC7?style=flat)  
 
-<!--
+-->
+
 ## MLOps  
 [Module 1 - Dockerized Training with PyTorch](https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch/)  
 
 [Module 2 - Dockerized Training Evaluation and Inference with PyTorch](https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch/)  
 
-[Module 3 - Training and Inference with PyTorch Lightning](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/)  
+[Module 3 - Containerized Training and Inference with PyTorch Lightning](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/)  
 
+<!--
 [Module 4 - PyTorch Lightning with Hydra Integration](https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/) 
 
 [Module 5 - Data Version Control](https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/tree/2f19be524bf3a8d67eae77d8b62b6f562d1aaefe)  
@@ -249,7 +251,8 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-uv%20Package%20Manager-000000?style=flat&logo=python&logoColor=white" alt="uv"/>
     </td>
   </tr>
-
+</table>
+<!--
 <tr>
     <td>
       <a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/">
@@ -313,8 +316,7 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
     </td>
   </tr>
-
-</table>
+-->
 
 <!--
 3. [Dog Breed Classification Training & Inference with PyTorch Lightning](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
