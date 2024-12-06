@@ -254,8 +254,6 @@ Welcome to my GitHub profile!
 </table>
 
 
--->
-
 <!--
 3. [Dog Breed Classification Training & Inference with PyTorch Lightning](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
    
