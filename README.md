@@ -112,7 +112,7 @@ Welcome to my GitHub profile!
   - [Image Classification II](https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration)  
 
 ## Deep Learning  
-- **PyTorch with PyTorch Lightning**  
+- **PyTorch Lightning**  
   - [Brain Tumor Classification](https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose)  
   - [Image Classification with PyTorch Lightning](https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration)
 
