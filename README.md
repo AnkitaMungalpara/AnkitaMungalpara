@@ -235,7 +235,7 @@ Welcome to my GitHub profile!
       </a>
     </td>
     <td>
-      This project implements a state-of-the-art dog breed classification model using PyTorch Lightning and Hydra. It's designed to accurately identify dog breeds from images, utilizing deep learning.
+      This project implements a state-of-the-art classification model using PyTorch Lightning and Hydra. It's designed to accurately identify dog breeds from images, utilizing deep learning.
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Hydra-3B82F6?style=flat&logo=hydra&logoColor=white" alt="Hydra"/>
