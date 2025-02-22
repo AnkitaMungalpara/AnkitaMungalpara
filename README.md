@@ -88,13 +88,12 @@ Welcome to my GitHub profile!
 
 [Module 3 - Containerized Training and Inference with PyTorch Lightning](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/)  
 
-<!--
-[Module 4 - PyTorch Lightning with Hydra Integration](https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/) 
+[Module 4 - PyTorch Lightning with Hydra Integration](https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/)  
 
 [Module 5 - Data Version Control](https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/tree/2f19be524bf3a8d67eae77d8b62b6f562d1aaefe)  
 
 [Module 6 - Experiment Tracking and Hyperparameter Optimization](https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/tree/7be961e0cfb337bb4ac781e7bcb936671201945d) 
--->
+
 
 ## Computer Vision  
 - **Object Detection**  
@@ -183,6 +182,8 @@ Welcome to my GitHub profile!
 ## 📈 GitHub Contributions
 ![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaMungalpara&theme=tokyonight)
 
+
+<!--
 ## 🔭 Current Projects
 
 <table>
@@ -239,14 +240,14 @@ Welcome to my GitHub profile!
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Hydra-3B82F6?style=flat&logo=hydra&logoColor=white" alt="Hydra"/>
-      <!-- ML Framework -->
+
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
       <img src="https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white" alt="PyTorch Lightning"/>
-      <!-- Infrastructure & DevOps -->
+
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
       <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white" alt="CI/CD"/>
-      <!-- Tools & Utilities -->
+
       <img src="https://img.shields.io/badge/-Code%20Coverage-F01F7A?style=flat&logo=codecov&logoColor=white" alt="Code Coverage"/>
       <img src="https://img.shields.io/badge/-uv%20Package%20Manager-000000?style=flat&logo=python&logoColor=white" alt="uv"/>
     </td>
@@ -254,7 +255,6 @@ Welcome to my GitHub profile!
 </table>
 
 
-<!--
 3. [Dog Breed Classification Training & Inference with PyTorch Lightning](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
    
 4. [Dockerized MNIST Classification PyTorch](https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch)
