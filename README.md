@@ -105,7 +105,7 @@ Welcome to my GitHub profile!
   
   <tr>
     <td>8</td>
-    <td>AWS Deployment with LiServe</td>
+    <td>Deploying and Benchmarking Classifier with LitServe</td>
     <td><a href="https://github.com/AnkitaMungalpara/AWS-Deployment-with-LitServe-MLOps/tree/0428ea2d7b15ed81a77f09bd4864037db4943370">GitHub</a></td>
   </tr>
   
