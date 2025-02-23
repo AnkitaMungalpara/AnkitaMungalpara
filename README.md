@@ -303,16 +303,10 @@ Welcome to my GitHub profile!
 </table>
 
 
-<!-- Add or remove skills as needed 
+## Blogs
 
-## 🌟 Top Repositories
-[![YOLOv5-Custom-Object-Detection](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=yolov5-custom-object-detection)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection)
-[![HuggingFace-NLP](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=huggingface-nlp)](https://github.com/AnkitaMungalpara/HuggingFace-NLP)
-[![PyTorch-DeepLearning](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=pytorch-deeplearning)](https://github.com/AnkitaMungalpara/PyTorch-DeepLearning)
-[![Leetcode-Solutions](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=leetcode-solutions)](https://github.com/AnkitaMungalpara/Leetcode-Solutions)
-[![Building-LLM-From-Scratch](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=building-llm-from-scratch)](https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch)
-[![LangChain-AI](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=langchain-ai)](https://github.com/AnkitaMungalpara/LangChain-AI)
--->
+- [Building CLIP From Scratch: Unfolding Story Behind Pixels](https://medium.com/@mungalpara.ankita/building-clip-from-scratch-unfolding-story-behind-pixels-38f1e9fd5e0d)
+
 
 ## 📈 GitHub Contributions
 ![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaMungalpara&theme=tokyonight)
@@ -324,6 +318,18 @@ Welcome to my GitHub profile!
 
 
 <!--
+
+Add or remove skills as needed 
+
+## 🌟 Top Repositories
+[![YOLOv5-Custom-Object-Detection](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=yolov5-custom-object-detection)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection)
+[![HuggingFace-NLP](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=huggingface-nlp)](https://github.com/AnkitaMungalpara/HuggingFace-NLP)
+[![PyTorch-DeepLearning](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=pytorch-deeplearning)](https://github.com/AnkitaMungalpara/PyTorch-DeepLearning)
+[![Leetcode-Solutions](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=leetcode-solutions)](https://github.com/AnkitaMungalpara/Leetcode-Solutions)
+[![Building-LLM-From-Scratch](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=building-llm-from-scratch)](https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch)
+[![LangChain-AI](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=langchain-ai)](https://github.com/AnkitaMungalpara/LangChain-AI)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnkitaMungalpara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
