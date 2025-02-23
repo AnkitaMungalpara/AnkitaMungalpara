@@ -29,31 +29,6 @@ Welcome to my GitHub profile!
 -->
 
 
-## Skills
-[![AIM](https://img.shields.io/badge/-AIM-FF6F61?style=flat&logo=aim&logoColor=white)](https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/)
-[![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection)
-[![Continuous ML](https://img.shields.io/badge/-Continuous%20ML-5A9E6F?style=flat&logo=gitlab&logoColor=white)](https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/)
-![Data Science](https://img.shields.io/badge/-Data%20Science-3498DB?style=flat&logo=anaconda&logoColor=white)
-[![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/AnkitaMungalpara/PyTorch-DeepLearning)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch)
-[![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=flat&logo=dvc&logoColor=white)](https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF5733?style=flat&logo=openai&logoColor=white)
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://github.com/AnkitaMungalpara/HuggingFace-NLP)
-[![Hydra](https://img.shields.io/badge/-Hydra-0092CC?style=flat&logo=python&logoColor=white)](https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/)
-![LitServe](https://img.shields.io/badge/-LitServe-FF6347?style=flat&logo=lightning&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-3E8EFB?style=flat&logo=gradio&logoColor=white)
-[![LangChain](https://img.shields.io/badge/-LangChain-121011?style=flat&logo=chain&logoColor=white)](https://github.com/AnkitaMungalpara/LangChain-AI)
-[![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat&logo=openai&logoColor=white)](https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logo=machine-learning&logoColor=white)
-[![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/)
-[![MLOps](https://img.shields.io/badge/-MLOps-FF6F61?style=flat&logo=kubernetes&logoColor=white)](https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch)
-[![Object Detection](https://img.shields.io/badge/-Object%20Detection-34495E?style=flat&logo=opencv&logoColor=white)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://github.com/AnkitaMungalpara/PyTorch-DeepLearning)
-[![PyTorch Lightning](https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white)](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
 
 <!--
 ## Data Science & ML Tools
@@ -313,6 +288,32 @@ Welcome to my GitHub profile!
 ## Blogs
 
 - [Building CLIP From Scratch: Unfolding Story Behind Pixels](https://medium.com/@mungalpara.ankita/building-clip-from-scratch-unfolding-story-behind-pixels-38f1e9fd5e0d)
+
+
+## Skills
+[![AIM](https://img.shields.io/badge/-AIM-FF6F61?style=flat&logo=aim&logoColor=white)](https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/)
+[![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection)
+[![Continuous ML](https://img.shields.io/badge/-Continuous%20ML-5A9E6F?style=flat&logo=gitlab&logoColor=white)](https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/)
+![Data Science](https://img.shields.io/badge/-Data%20Science-3498DB?style=flat&logo=anaconda&logoColor=white)
+[![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/AnkitaMungalpara/PyTorch-DeepLearning)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch)
+[![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=flat&logo=dvc&logoColor=white)](https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF5733?style=flat&logo=openai&logoColor=white)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://github.com/AnkitaMungalpara/HuggingFace-NLP)
+[![Hydra](https://img.shields.io/badge/-Hydra-0092CC?style=flat&logo=python&logoColor=white)](https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/)
+![LitServe](https://img.shields.io/badge/-LitServe-FF6347?style=flat&logo=lightning&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-3E8EFB?style=flat&logo=gradio&logoColor=white)
+[![LangChain](https://img.shields.io/badge/-LangChain-121011?style=flat&logo=chain&logoColor=white)](https://github.com/AnkitaMungalpara/LangChain-AI)
+[![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat&logo=openai&logoColor=white)](https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logo=machine-learning&logoColor=white)
+[![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/)
+[![MLOps](https://img.shields.io/badge/-MLOps-FF6F61?style=flat&logo=kubernetes&logoColor=white)](https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch)
+[![Object Detection](https://img.shields.io/badge/-Object%20Detection-34495E?style=flat&logo=opencv&logoColor=white)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://github.com/AnkitaMungalpara/PyTorch-DeepLearning)
+[![PyTorch Lightning](https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white)](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
 ## 📈 GitHub Contributions
