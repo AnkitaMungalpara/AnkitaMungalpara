@@ -260,8 +260,20 @@ Welcome to my GitHub profile!
     </td>
     <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch">GitHub</a></td>
   </tr>
-</table>
 
+  <!-- Multimodal Models Section -->
+  <tr>
+    <td><b>Multimodal Model</b></td>
+    <td>Building CLIP From Scratch</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Multimodal_AI-4B8BBE?style=flat">
+      <img src="https://img.shields.io/badge/-CLIP-13ADC7?style=flat">
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
+    </td>
+    <td><a href="https://github.com/AnkitaMungalpara/Building-CLIP-From-Scratch/tree/0555e70ef5fce1ec5930d7d74c14c898780f0092">GitHub</a></td>
+  </tr>
+</table>
 
 ### Programming & Algorithms
 
@@ -290,7 +302,6 @@ Welcome to my GitHub profile!
   </tr>
 </table>
 
-    
 
 <!-- Add or remove skills as needed 
 
