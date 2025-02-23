@@ -96,12 +96,18 @@ Welcome to my GitHub profile!
     <td>Experiment Tracking and Hyperparameter Optimization</td>
     <td><a href="https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/tree/7be961e0cfb337bb4ac781e7bcb936671201945d">GitHub</a></td>
   </tr>
+  
   <tr>
     <td>7</td>
     <td>Deployment with Gradio</td>
     <td><a href="https://github.com/AnkitaMungalpara/DeepLearning-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/tree/c627e868dd79e708f1debf88427a974d4ddc7cea">GitHub</a></td>
   </tr>
-
+  
+  <tr>
+    <td>8</td>
+    <td>AWS Deployment with LiServe</td>
+    <td><a href="https://github.com/AnkitaMungalpara/AWS-Deployment-with-LitServe-MLOps/tree/0428ea2d7b15ed81a77f09bd4864037db4943370">GitHub</a></td>
+  </tr>
   
 </table>
 
