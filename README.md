@@ -173,7 +173,7 @@ Welcome to my GitHub profile!
   <tr>
     <th>Category</th>
     <th>Project</th>
-    <th>Technologies</th>
+    <th>Technological Stack</th>
     <th>Repository Link</th>
   </tr>
   
@@ -233,7 +233,7 @@ Welcome to my GitHub profile!
   <tr>
     <th>Category</th>
     <th>Project</th>
-    <th>Technologies</th>
+    <th>Technological Stack</th>
     <th>Repository Link</th>
   </tr>
   
@@ -281,7 +281,7 @@ Welcome to my GitHub profile!
   <tr>
     <th>Category</th>
     <th>Project</th>
-    <th>Technologies</th>
+    <th>Technological Stack</th>
     <th>Repository Link</th>
   </tr>
 
