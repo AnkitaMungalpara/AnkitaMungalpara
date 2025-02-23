@@ -94,32 +94,32 @@ Welcome to my GitHub profile!
   <tr>
     <td>1</td>
     <td>Dockerized Training with PyTorch</td>
-    <td><a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch/">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch/">GitHub</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Dockerized Training Evaluation and Inference with PyTorch</td>
-    <td><a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch/">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch/">GitHub</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Containerized Training and Inference with PyTorch Lightning</td>
-    <td><a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/">GitHub</a></td>
   </tr>
   <tr>
     <td>4</td>
     <td>PyTorch Lightning with Hydra Integration</td>
-    <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/">GitHub</a></td>
   </tr>
   <tr>
     <td>5</td>
     <td>Data Version Control</td>
-    <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/tree/2f19be524bf3a8d67eae77d8b62b6f562d1aaefe">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/tree/2f19be524bf3a8d67eae77d8b62b6f562d1aaefe">GitHub</a></td>
   </tr>
   <tr>
     <td>6</td>
     <td>Experiment Tracking and Hyperparameter Optimization</td>
-    <td><a href="https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/tree/7be961e0cfb337bb4ac781e7bcb936671201945d">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/tree/7be961e0cfb337bb4ac781e7bcb936671201945d">GitHub</a></td>
   </tr>
 </table>
 
@@ -143,7 +143,7 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/-YOLOv5-00FFFF?style=flat">
     </td>
-    <td><a href="https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection">GitHub</a></td>
   </tr>
   <tr>
 <!--     <td colspan="3"></td> -->
@@ -152,17 +152,17 @@ Welcome to my GitHub profile!
     <td rowspan="3"><b>Image Classification</b></td>
     <td>Brain Tumor Classification</td>
     <td>-</td>
-    <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification I</td>
     <td>-</td>
-    <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification II</td>
     <td>-</td>
-    <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub</a></td>
   </tr>
 </table>
 
@@ -182,7 +182,7 @@ Welcome to my GitHub profile!
     <td rowspan="4"><b>PyTorch Lightning</b></td>
     <td>Brain Tumor Classification</td>
     <td>-</td>
-    <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification with PyTorch Lightning</td>
@@ -193,17 +193,17 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-Hydra-4B8BBE?style=flat">
       <img src="https://img.shields.io/badge/-PyTorch_Lightning-792EE5?style=flat&logo=pytorch&logoColor=white">
     </td>
-    <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification II</td>
     <td>-</td>
-    <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification III</td>
     <td>-</td>
-    <td><a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning">GitHub</a></td>
   </tr>
 
   <!-- Basic PyTorch Section -->
@@ -218,12 +218,12 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat">
     </td>
-    <td><a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch">GitHub</a></td>
   </tr>
   <tr>
     <td>Dockerized Training Inference with PyTorch</td>
     <td>-</td>
-    <td><a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch">GitHub</a></td>
   </tr>
 </table>
 
@@ -248,7 +248,7 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
     </td>
-    <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP">GitHub</a></td>
   </tr>
   <tr>
     <td>Building LLM From Scratch</td>
@@ -258,7 +258,7 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
     </td>
-    <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch">GitHub</a></td>
   </tr>
 </table>
 
@@ -286,7 +286,7 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-HashMap-13ADC7?style=flat">
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
     </td>
-    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions">GitHub Repository</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions">GitHub</a></td>
   </tr>
 </table>
 
