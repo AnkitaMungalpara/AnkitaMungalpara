@@ -118,19 +118,19 @@ Welcome to my GitHub profile!
   <tr>
     <th>Category</th>
     <th>Project</th>
-    <th>Technological Stack</th>
+<!--     <th>Technological Stack</th> -->
     <th>Repository Link</th>
   </tr>
   <tr>
     <td rowspan="2"><b>Object Detection</b></td>
     <td>YOLOv5 Custom Object Detection for Clothing Accessories</td>
-    <td>
+<!--     <td>
       <img src="https://img.shields.io/badge/-Label_Studio-000000?style=flat">
       <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/-YOLOv5-00FFFF?style=flat">
-    </td>
+    </td> -->
     <td><a href="https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection">GitHub</a></td>
   </tr>
   <tr>
@@ -139,17 +139,17 @@ Welcome to my GitHub profile!
   <tr>
     <td rowspan="3"><b>Image Classification</b></td>
     <td>Brain Tumor Classification</td>
-    <td>-</td>
+<!--     <td>-</td> -->
     <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification I</td>
-    <td>-</td>
+<!--     <td>-</td> -->
     <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification II</td>
-    <td>-</td>
+<!--     <td>-</td> -->
     <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub</a></td>
   </tr>
 </table>
@@ -161,7 +161,7 @@ Welcome to my GitHub profile!
   <tr>
     <th>Category</th>
     <th>Project</th>
-    <th>Technological Stack</th>
+<!--     <th>Technological Stack</th> -->
     <th>Repository Link</th>
   </tr>
   
@@ -169,28 +169,28 @@ Welcome to my GitHub profile!
   <tr>
     <td rowspan="4"><b>PyTorch Lightning</b></td>
     <td>Brain Tumor Classification</td>
-    <td>-</td>
+<!--     <td>-</td> -->
     <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification with PyTorch Lightning</td>
-    <td>
+<!--     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white">
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/-Hydra-4B8BBE?style=flat">
       <img src="https://img.shields.io/badge/-PyTorch_Lightning-792EE5?style=flat&logo=pytorch&logoColor=white">
-    </td>
+    </td> -->
     <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification II</td>
-    <td>-</td>
+<!--     <td>-</td> -->
     <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification III</td>
-    <td>-</td>
+<!--     <td>-</td> -->
     <td><a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning">GitHub</a></td>
   </tr>
 
@@ -198,19 +198,19 @@ Welcome to my GitHub profile!
   <tr>
     <td rowspan="2"><b>Basic PyTorch</b></td>
     <td>Dockerized MNIST Classification</td>
-    <td>
+<!--     <td>
       <img src="https://img.shields.io/badge/-CNN-FF6F00?style=flat">
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/-MNIST-000000?style=flat">
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat">
-    </td>
+    </td> -->
     <td><a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch">GitHub</a></td>
   </tr>
   <tr>
     <td>Dockerized Training Inference with PyTorch</td>
-    <td>-</td>
+<!--     <td>-</td> -->
     <td><a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch">GitHub</a></td>
   </tr>
 </table>
@@ -221,7 +221,7 @@ Welcome to my GitHub profile!
   <tr>
     <th>Category</th>
     <th>Project</th>
-    <th>Technological Stack</th>
+<!--     <th>Technological Stack</th> -->
     <th>Repository Link</th>
   </tr>
   
@@ -229,23 +229,23 @@ Welcome to my GitHub profile!
   <tr>
     <td rowspan="2"><b>Transformers & LLMs</b></td>
     <td>NLP with HuggingFace</td>
-    <td>
+<!--     <td>
       <img src="https://img.shields.io/badge/-HuggingFace-FFB30F?style=flat">
       <img src="https://img.shields.io/badge/-NLP-4B8BBE?style=flat">
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
-    </td>
+    </td> -->
     <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP">GitHub</a></td>
   </tr>
   <tr>
     <td>Building LLM From Scratch</td>
-    <td>
+<!--     <td>
       <img src="https://img.shields.io/badge/-Generative_AI-FF6F00?style=flat">
       <img src="https://img.shields.io/badge/-LLM-FFB30F?style=flat">
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-    </td>
+    </td> -->
     <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch">GitHub</a></td>
   </tr>
 
@@ -253,12 +253,12 @@ Welcome to my GitHub profile!
   <tr>
     <td><b>Multimodal Model</b></td>
     <td>Building CLIP From Scratch</td>
-    <td>
+<!--     <td>
       <img src="https://img.shields.io/badge/-Multimodal_AI-4B8BBE?style=flat">
       <img src="https://img.shields.io/badge/-CLIP-13ADC7?style=flat">
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-    </td>
+    </td> -->
     <td><a href="https://github.com/AnkitaMungalpara/Building-CLIP-From-Scratch/tree/0555e70ef5fce1ec5930d7d74c14c898780f0092">GitHub</a></td>
   </tr>
 </table>
@@ -268,8 +268,8 @@ Welcome to my GitHub profile!
 <table>
   <tr>
     <th>Category</th>
-    <th>Project</th>
-    <th>Technological Stack</th>
+    <th>Description</th>
+<!--     <th>Technological Stack</th> -->
     <th>Repository Link</th>
   </tr>
 
@@ -277,7 +277,7 @@ Welcome to my GitHub profile!
   <tr>
     <td><b>Data Structures & Algorithms</b></td>
     <td>Leetcode Solutions</td>
-    <td>
+<!--     <td>
       <img src="https://img.shields.io/badge/-Array-2496ED?style=flat">
       <img src="https://img.shields.io/badge/-Binary_Search-FF6F00?style=flat">
       <img src="https://img.shields.io/badge/-Linked_List-4B8BBE?style=flat">
@@ -285,7 +285,7 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/-String-EE4C2C?style=flat">
       <img src="https://img.shields.io/badge/-HashMap-13ADC7?style=flat">
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-    </td>
+    </td> -->
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions">GitHub</a></td>
   </tr>
 </table>
