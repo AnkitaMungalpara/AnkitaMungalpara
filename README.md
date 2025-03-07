@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-## 🚀 About Me
+## About Me
 - 🌟 I’m currently pursuing an **MS in Data Science** at the **University of Massachusetts Dartmouth**.
 - 🌱 I'm learning advanced **Deep Learning architectures** and mastering **MLOps** with cloud platforms like **Azure ML** and **AWS**, along with **Generative AI, Language Models, and Large Language Models (LLMs)**.
 - 🏆 I’m a [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0B).
