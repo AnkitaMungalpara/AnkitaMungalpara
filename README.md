@@ -1,19 +1,14 @@
-
 # 👋 Hi there, I'm Ankita
 
 Welcome to my GitHub profile!
 
-
-<html>
-<ul style="list-style-type: none;">
-    <li style="color: #2E8B57;">🔭 I’m currently pursuing <strong>MS in Data Science</strong> at <strong>University of Massachusetts Dartmouth</strong>.</li>
-    <li style="color: #4682B4;">🌱 I'm currently learning advanced <strong>Deep Learning</strong> architectures and mastering <strong>MLOps</strong> with cloud platforms like <strong>Azure ML</strong> and <strong>AWS</strong>, along with <strong>Generative AI, Language Models, and Large Language Models (LLMs)</strong>.</li>
-    <li style="color: #FFD700;">🎓 I’m a <a href="https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0B" style="color: #FFFFFF;">Microsoft Certified: Azure Data Scientist Associate</a></li>
-    <li style="color: #FFD700;">📫 How to reach me: <a href="https://www.linkedin.com/in/ankita-mungalpara/" style="color: #FFFFFF;">LinkedIn</a></li>
-    <li style="color: #8A2BE2;">😄 Pronouns: <strong>She/Her</strong></li>
-</ul>
-</html>
-
+## 🚀 About Me
+- 🌟 I’m currently pursuing an **MS in Data Science** at the **University of Massachusetts Dartmouth**.
+- 🌱 I'm learning advanced **Deep Learning architectures** and mastering **MLOps** with cloud platforms like **Azure ML** and **AWS**, along with **Generative AI, Language Models, and Large Language Models (LLMs)**.
+- 🏆 I’m a [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0B).
+- 💌 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankita-mungalpara/)
+- 💜 Pronouns: **She/Her**
+  
 
 <!--I'm a [your role/profession] passionate about [your interests/specialties]. 
 
@@ -292,9 +287,12 @@ Welcome to my GitHub profile!
 </table>
 
 
-## Blogs
-
+## 📚 Blogs
 - [Building CLIP From Scratch: Unfolding Story Behind Pixels](https://medium.com/@mungalpara.ankita/building-clip-from-scratch-unfolding-story-behind-pixels-38f1e9fd5e0d)
+
+
+## 📊 GitHub Contributions
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnkitaMungalpara)](https://github.com/AnkitaMungalpara)
 
 
 ## Skills
@@ -323,73 +321,19 @@ Welcome to my GitHub profile!
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-## 📈 GitHub Contributions
-![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaMungalpara&theme=tokyonight)
-
-
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ankita-mungalpara/)
 
 
 
 <!--
-
-Add or remove skills as needed 
-
-## 🌟 Top Repositories
-[![YOLOv5-Custom-Object-Detection](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=yolov5-custom-object-detection)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection)
-[![HuggingFace-NLP](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=huggingface-nlp)](https://github.com/AnkitaMungalpara/HuggingFace-NLP)
-[![PyTorch-DeepLearning](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=pytorch-deeplearning)](https://github.com/AnkitaMungalpara/PyTorch-DeepLearning)
-[![Leetcode-Solutions](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=leetcode-solutions)](https://github.com/AnkitaMungalpara/Leetcode-Solutions)
-[![Building-LLM-From-Scratch](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=building-llm-from-scratch)](https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch)
-[![LangChain-AI](https://github-readme-stats.vercel.app/api/pin/?username=AnkitaMungalpara&repo=langchain-ai)](https://github.com/AnkitaMungalpara/LangChain-AI)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnkitaMungalpara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaMungalpara&show_icons=true&theme=radical)
-
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Personal Website](https://img.shields.io/badge/-Website-green?style=flat-square&logo=Safari&logoColor=white)](https://yourwebsite.com)
-
----
-
-⭐️ From [AnkitaMungalpara](https://github.com/AnkitaMungalpara)
-
- ## 🚀 About Me
-I'm a [Your Profession/Role] passionate about [Your Interests]. I love to [What You Love Doing] and am always looking to learn and grow in the tech world.
-
-## Hi there 👋
-
-**AnkitaMungalpara/AnkitaMungalpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 🔭 I’m currently pursuing **MS in Data Science** at **University of Massachusetts Dartmouth**.
-  
-- 🌱 I’m currently learning advanced **Deep Learning** architectures and mastering **MLOps** with cloud platforms like **Azure ML** and **AWS SageMaker**.
-
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ankita-mungalpara/)
-
-- 😄 Pronouns: She/Her
-
-- 👯 I’m looking to collaborate on **research** projects, particularly in **Generative AI**, **NLP**, and **Computer Vision**, leveraging cloud-based infrastructures.
-
-- 🤔 I’m looking for help with integrating **LLMOps** frameworks for more scalable and efficient **machine learning** solutions.
-
-- 💬 Ask me about **large language models**, **end-to-end data science pipelines**, or my work on **synthetic aperture radar** for forest height estimation.
-
-- ⚡ Fun fact: I’ve worked on projects ranging from predicting forest heights with **ISRO** to analyzing NYC traffic patterns with **Azure Databricks**—and I still manage to find time to experiment with **deep learning models** in my spare time!
-
+## 🎯 Skills
+- **Machine Learning & Deep Learning**: PyTorch, TensorFlow, Scikit-learn, Hugging Face, Generative AI
+- **MLOps**: MLflow, DVC, Hydra, Docker, Kubernetes, Gradio, LitServe
+- **Cloud Platforms**: AWS, Azure ML
+- **Computer Vision**: OpenCV, YOLO, CLIP
+- **NLP & LLMs**: Transformers, LangChain
+- **Programming**: Python, SQL, Bash
+- **Experiment Tracking & Optimization**: AIM, Optuna, Hyperparameter Tuning
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaMungalpara&show_icons=true&theme=tokyonight&rank_icon=github)
 -->
