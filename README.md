@@ -287,11 +287,11 @@ Welcome to my GitHub profile!
 </table>
 
 
-## 📚 Blogs
+## Blogs
 - [Building CLIP From Scratch: Unfolding Story Behind Pixels](https://medium.com/@mungalpara.ankita/building-clip-from-scratch-unfolding-story-behind-pixels-38f1e9fd5e0d)
 
 
-## 📊 GitHub Contributions
+## GitHub Contributions
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnkitaMungalpara)](https://github.com/AnkitaMungalpara)
 
 
@@ -321,7 +321,7 @@ Welcome to my GitHub profile!
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-## 🤝 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ankita-mungalpara/)
 
 
