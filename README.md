@@ -295,6 +295,7 @@ Welcome to my GitHub profile!
 
 ## Blogs
 - [Building CLIP From Scratch: Unfolding Story Behind Pixels](https://medium.com/@mungalpara.ankita/building-clip-from-scratch-unfolding-story-behind-pixels-38f1e9fd5e0d)
+- [Model Context Protocol (MCP)](https://open.substack.com/pub/ankitamungalpara/p/understanding-model-context-protocol?r=5hh66x&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 
 ## GitHub Contributions
