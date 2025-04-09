@@ -52,8 +52,61 @@ Welcome to my GitHub profile!
 -->
 
 ## Projects 
-### MLOps  
 
+### Agentic AI
+
+<table> <tr> <th>Project</th> <th>Repository Link</th> </tr> <tr> <td>Model Context Protocol (MCP)</td> <td><a href="https://github.com/AnkitaMungalpara/AgenticAI-Model-Context-Protocol">GitHub</a></td> </tr> </table>
+
+### Generative AI / NLP  
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Project</th>
+<!--     <th>Technological Stack</th> -->
+    <th>Repository Link</th>
+  </tr>
+  
+  <!-- Transformers & LLMs Section -->
+  <tr>
+    <td rowspan="2"><b>Transformers & LLMs</b></td>
+    <td>NLP with HuggingFace</td>
+<!--     <td>
+      <img src="https://img.shields.io/badge/-HuggingFace-FFB30F?style=flat">
+      <img src="https://img.shields.io/badge/-NLP-4B8BBE?style=flat">
+      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+    </td> -->
+    <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>Building LLM From Scratch</td>
+<!--     <td>
+      <img src="https://img.shields.io/badge/-Generative_AI-FF6F00?style=flat">
+      <img src="https://img.shields.io/badge/-LLM-FFB30F?style=flat">
+      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+    </td> -->
+    <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch">GitHub</a></td>
+  </tr>
+
+  <!-- Multimodal Models Section -->
+  <tr>
+    <td><b>Multimodal Model</b></td>
+    <td>Building CLIP From Scratch</td>
+<!--     <td>
+      <img src="https://img.shields.io/badge/-Multimodal_AI-4B8BBE?style=flat">
+      <img src="https://img.shields.io/badge/-CLIP-13ADC7?style=flat">
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
+    </td> -->
+    <td><a href="https://github.com/AnkitaMungalpara/Building-CLIP-From-Scratch/tree/0555e70ef5fce1ec5930d7d74c14c898780f0092">GitHub</a></td>
+  </tr>
+</table>
+
+
+### MLOps  
 
 <table>
   <tr>
@@ -106,53 +159,6 @@ Welcome to my GitHub profile!
   
 </table>
 
-### Generative AI / NLP  
-
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Project</th>
-<!--     <th>Technological Stack</th> -->
-    <th>Repository Link</th>
-  </tr>
-  
-  <!-- Transformers & LLMs Section -->
-  <tr>
-    <td rowspan="2"><b>Transformers & LLMs</b></td>
-    <td>NLP with HuggingFace</td>
-<!--     <td>
-      <img src="https://img.shields.io/badge/-HuggingFace-FFB30F?style=flat">
-      <img src="https://img.shields.io/badge/-NLP-4B8BBE?style=flat">
-      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
-    </td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Building LLM From Scratch</td>
-<!--     <td>
-      <img src="https://img.shields.io/badge/-Generative_AI-FF6F00?style=flat">
-      <img src="https://img.shields.io/badge/-LLM-FFB30F?style=flat">
-      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-    </td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch">GitHub</a></td>
-  </tr>
-
-  <!-- Multimodal Models Section -->
-  <tr>
-    <td><b>Multimodal Model</b></td>
-    <td>Building CLIP From Scratch</td>
-<!--     <td>
-      <img src="https://img.shields.io/badge/-Multimodal_AI-4B8BBE?style=flat">
-      <img src="https://img.shields.io/badge/-CLIP-13ADC7?style=flat">
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-    </td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/Building-CLIP-From-Scratch/tree/0555e70ef5fce1ec5930d7d74c14c898780f0092">GitHub</a></td>
-  </tr>
-</table>
 
 
 ### Computer Vision  
