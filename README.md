@@ -69,27 +69,19 @@ Welcome to my GitHub profile!
   
   <!-- Transformers & LLMs Section -->
   <tr>
-    <td rowspan="2"><b>Transformers & LLMs</b></td>
-    <td>NLP with HuggingFace</td>
-<!--     <td>
-      <img src="https://img.shields.io/badge/-HuggingFace-FFB30F?style=flat">
-      <img src="https://img.shields.io/badge/-NLP-4B8BBE?style=flat">
-      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
-    </td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Building LLM From Scratch</td>
-<!--     <td>
-      <img src="https://img.shields.io/badge/-Generative_AI-FF6F00?style=flat">
-      <img src="https://img.shields.io/badge/-LLM-FFB30F?style=flat">
-      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-    </td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch">GitHub</a></td>
-  </tr>
+      <td rowspan="3"><strong>Transformers & LLMs</strong></td>
+      <td>Fine-Tuning Mistral-7B with LoRA</td>
+      <td><a href="https://github.com/AnkitaMungalpara/Fine-Tuning-LLMs" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Building LLM From Scratch</td>
+      <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>NLP with HuggingFace</td>
+      <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP" target="_blank">GitHub</a></td>
+    </tr>
+
 
   <!-- Multimodal Models Section -->
   <tr>
