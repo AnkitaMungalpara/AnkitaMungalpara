@@ -3,7 +3,7 @@
 
 <p align="center">
 <!--   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/> -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1dDB5d3Vkd2ZvMmV2dmZoNjZnaGZqbzA1d2Z5Zmprc2M2czd1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="600"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1dDB5d3Vkd2ZvMmV2dmZoNjZnaGZqbzA1d2Z5Zmprc2M2czd1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="450"/>
 </p>
 
 <h3 align="center">Welcome to my GitHub profile — where data meets deployment 🚀</h2>
@@ -20,18 +20,24 @@
 <h2>🚀 Projects</h2>
 
 <h3>🤖 Agentic AI</h3>
+
 <table>
   <tr>
     <th>Project</th>
-    <th>Repository</th>
+    <th>🔗 Repository</th>
   </tr>
   <tr>
-    <td><strong>Model Context Protocol (MCP)</strong></td>
-    <td><a href="https://github.com/AnkitaMungalpara/AgenticAI-Model-Context-Protocol/" target="_blank">🌐 GitHub</a></td>
+    <td><strong>🧠 Model Context Protocol (MCP)</strong><br>
+      <sub>Agent architecture for memory, context-switching, and tool interoperability</sub>
+    </td>
+    <td>
+      <a href="https://github.com/AnkitaMungalpara/AgenticAI-Model-Context-Protocol/" target="_blank">
+        View on GitHub
+      </a>
+    </td>
   </tr>
 </table>
 
-<br>
 
 <h3>✨ Generative AI / NLP</h3>
 <table>
