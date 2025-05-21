@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <th>Project</th>
+    <th>🛠️ Project</th>
     <th>🔗 Repository</th>
   </tr>
   <tr>
@@ -42,39 +42,39 @@
 <h3>✨ Generative AI / NLP</h3>
 <table>
   <tr>
-    <th>Category</th>
-    <th>Project</th>
-    <th>Repository</th>
+    <th>📁 Category</th>
+    <th>🛠️ Project</th>
+    <th>🔗 Repository</th>
   </tr>
   <tr>
     <td rowspan="3"><strong>🧠 Transformers & LLMs</strong></td>
     <td>Fine-Tuning Mistral-7B with LoRA</td>
-    <td><a href="https://github.com/AnkitaMungalpara/Fine-Tuning-LLMs/" target="_blank">🔗 GitHub</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Fine-Tuning-LLMs/" target="_blank">GitHub</a></td>
   </tr>
   <tr>
     <td>Building LLM From Scratch</td>
-    <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch/" target="_blank">🔗 GitHub</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch/" target="_blank">GitHub</a></td>
   </tr>
   <tr>
     <td>NLP with HuggingFace</td>
-    <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP" target="_blank">🔗 GitHub</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP" target="_blank">GitHub</a></td>
   </tr>
   <tr>
     <td><strong>🖼️ Multimodal Model</strong></td>
     <td>Building CLIP From Scratch</td>
-    <td><a href="https://github.com/AnkitaMungalpara/Building-CLIP-From-Scratch/" target="_blank">🔗 GitHub</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Building-CLIP-From-Scratch/" target="_blank">GitHub</a></td>
   </tr>
 </table>
 
 
-### MLOps  
+<h3>MLOps</h3>
 
 <p>A curated list of practical projects covering the complete ML lifecycle — from training to deployment.</p>
 
 <table>
   <tr>
     <th>📦 Module</th>
-    <th>📁 Project</th>
+    <th>🛠️ Project</th>
     <th>🔗 Repository</th>
   </tr>
   <tr>
@@ -119,125 +119,99 @@
   </tr>
 </table>
 
-
-### Computer Vision  
+<h3>🎯 Computer Vision</h3>
 
 <table>
-  <tr>
-    <th>Category</th>
-    <th>Project</th>
-    <th>Repository Link</th>
-  </tr>
-  <tr>
-    <td rowspan="2"><b>Object Detection</b></td>
-    <td>YOLOv5 Custom Object Detection for Clothing Accessories</td>
-    <td><a href="https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection">GitHub</a></td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td rowspan="3"><b>Image Classification</b></td>
-    <td>Brain Tumor Classification</td>
-    <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Image Classification I</td>
-    <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Image Classification II</td>
-    <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub</a></td>
-  </tr>
+  <thead>
+    <tr>
+      <th>📁 Category</th>
+      <th>🛠️ Project</th>
+      <th>🔗 Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="1"><b>Object Detection</b></td>
+      <td>YOLOv5 Custom Object Detection for Clothing Accessories</td>
+      <td><a href="https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>Image Classification</b></td>
+      <td>Brain Tumor Classification</td>
+      <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Image Classification I</td>
+      <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Image Classification II</td>
+      <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub</a></td>
+    </tr>
+  </tbody>
 </table>
 
 
-### Deep Learning  
+<h3>🧠 Deep Learning</h3>
 
 <table>
-  <tr>
-    <th>Category</th>
-    <th>Project</th>
-<!--     <th>Technological Stack</th> -->
-    <th>Repository Link</th>
-  </tr>
-  
-  <!-- PyTorch Lightning Section -->
-  <tr>
-    <td rowspan="4"><b>PyTorch Lightning</b></td>
-    <td>Brain Tumor Classification</td>
-<!--     <td>-</td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Image Classification with PyTorch Lightning</td>
-<!--     <td>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white">
-      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-Hydra-4B8BBE?style=flat">
-      <img src="https://img.shields.io/badge/-PyTorch_Lightning-792EE5?style=flat&logo=pytorch&logoColor=white">
-    </td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Image Classification II</td>
-<!--     <td>-</td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Image Classification III</td>
-<!--     <td>-</td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning">GitHub</a></td>
-  </tr>
-
-  <!-- Basic PyTorch Section -->
-  <tr>
-    <td rowspan="2"><b>Basic PyTorch</b></td>
-    <td>Dockerized MNIST Classification</td>
-<!--     <td>
-      <img src="https://img.shields.io/badge/-CNN-FF6F00?style=flat">
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/-MNIST-000000?style=flat">
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat">
-    </td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Dockerized Training Inference with PyTorch</td>
-<!--     <td>-</td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch">GitHub</a></td>
-  </tr>
+  <thead>
+    <tr>
+      <th>📁 Category</th>
+      <th>🛠️ Project</th>
+      <th>🔗 Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4"><b>PyTorch Lightning</b></td>
+      <td>Brain Tumor Classification</td>
+      <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Image Classification I</td>
+      <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Image Classification II</td>
+      <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Image Classification III</td>
+      <td><a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>Basic PyTorch</b></td>
+      <td>Dockerized MNIST Classification</td>
+      <td><a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch">GitHub</a></td>
+    </tr>
+    <tr>
+      <td>Dockerized Training & Inference with PyTorch</td>
+      <td><a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch">GitHub</a></td>
+    </tr>
+  </tbody>
 </table>
 
 
-### Programming & Algorithms
+<h3>💻 Programming & Algorithms</h3>
 
 <table>
-  <tr>
-    <th>Category</th>
-    <th>Description</th>
-<!--     <th>Technological Stack</th> -->
-    <th>Repository Link</th>
-  </tr>
-
-  <!-- Data Structures & Algorithms Section -->
-  <tr>
-    <td><b>Data Structures & Algorithms</b></td>
-    <td>Leetcode Solutions</td>
-<!--     <td>
-      <img src="https://img.shields.io/badge/-Array-2496ED?style=flat">
-      <img src="https://img.shields.io/badge/-Binary_Search-FF6F00?style=flat">
-      <img src="https://img.shields.io/badge/-Linked_List-4B8BBE?style=flat">
-      <img src="https://img.shields.io/badge/-Stack-FF6F00?style=flat">
-      <img src="https://img.shields.io/badge/-String-EE4C2C?style=flat">
-      <img src="https://img.shields.io/badge/-HashMap-13ADC7?style=flat">
-      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-    </td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions">GitHub</a></td>
-  </tr>
+  <thead>
+    <tr>
+      <th>📁 Category</th>
+      <th>📝 Description</th>
+      <th>🔗 Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Data Structures & Algorithms</b></td>
+      <td>Leetcode Solutions</td>
+      <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions">GitHub</a></td>
+    </tr>
+  </tbody>
 </table>
+
 
 
 ## Blogs
@@ -291,6 +265,5 @@
 - **Experiment Tracking & Optimization**: AIM, Optuna, Hyperparameter Tuning
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaMungalpara&show_icons=true&theme=tokyonight&rank_icon=github)
 -->
-
 
 
