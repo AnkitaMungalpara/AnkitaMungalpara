@@ -1,7 +1,11 @@
 
 # 👋 Hi there, I'm Ankita!
 
-Welcome to my GitHub profile — where data meets deployment 🚀
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
+<h3 align="center">Welcome to my GitHub profile — where data meets deployment 🚀</h2>
 
 ## 👩‍💻 About Me
 - 🎓 Currently pursuing an **M.S. in Data Science** at the **University of Massachusetts Dartmouth**
