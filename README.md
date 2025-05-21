@@ -2,7 +2,8 @@
 # 👋 Hi there, I'm Ankita!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+<!--   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/> -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1dDB5d3Vkd2ZvMmV2dmZoNjZnaGZqbzA1d2Z5Zmprc2M2czd1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="600"/>
 </p>
 
 <h3 align="center">Welcome to my GitHub profile — where data meets deployment 🚀</h2>
