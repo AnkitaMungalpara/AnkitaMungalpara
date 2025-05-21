@@ -1,156 +1,112 @@
-# 👋 Hi there, I'm Ankita
 
-Welcome to my GitHub profile!
+# 👋 Hi there, I'm Ankita!
 
-## About Me
-- 🌟 I’m currently pursuing an **MS in Data Science** at the **University of Massachusetts Dartmouth**.
-- 🌱 I'm learning advanced **Deep Learning architectures** and mastering **MLOps** with cloud platforms like **Azure ML** and **AWS**, along with **Generative AI, Language Models, and Large Language Models (LLMs)**.
-- 🏆 I’m a [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0B).
-- 💌 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankita-mungalpara/)
+Welcome to my GitHub profile — where data meets deployment 🚀
+
+## 👩‍💻 About Me
+- 🎓 Currently pursuing an **M.S. in Data Science** at the **University of Massachusetts Dartmouth**
+- 🔬 Exploring **Deep Learning architectures**, **MLOps workflows**, and **cloud platforms** like **Azure ML** and **AWS**
+- 🤖 Passionate about **Generative AI**, **Language Models**, and **LLMs**
+- 🏅 [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0B)
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/ankita-mungalpara/)
 - 💜 Pronouns: **She/Her**
-  
-
-<!--I'm a [your role/profession] passionate about [your interests/specialties]. 
-
-## 🚀 About Me
-- 🔭 I'm currently working on [current project or focus]
-- 🌱 I'm currently learning [technologies or skills you're learning]
-- 👯 I'm looking to collaborate on [types of projects you're interested in]
-- 💬 Ask me about [topics you're knowledgeable about]
-- 📫 How to reach me: [your preferred contact method]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [an interesting fact about you]
-
--->
 
 
+<h2>🚀 Projects</h2>
 
-<!--
-## Data Science & ML Tools
-- **Configuration Management**
-  - Projects using Hydra:
-    - [Dog Breed Classification](https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration)
-    - [HyperParameter Tuning](https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking)
-    - [CatDog Classification](https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl)
+<h3>🤖 Agentic AI</h3>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
+    <td><strong>Model Context Protocol (MCP)</strong></td>
+    <td><a href="https://github.com/AnkitaMungalpara/AgenticAI-Model-Context-Protocol/" target="_blank">🌐 GitHub</a></td>
+  </tr>
+</table>
 
+<br>
 
-## MLOps  
-- **Docker & CI/CD**
-  - [Dockerized Training Evaluation Inference with PyTorch](https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch)  
-  - [Deep Learning Classification Training](https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning)
-  - [Deep Learning Classification with Hydra Intigration](https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration)  
-
-- **Experiment Tracking & Model Management**  
-  - [Hyperparameter Optimization and Experminet Tracking](https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking)
-    
-      ![Hydra](https://img.shields.io/badge/-Hydra-4B8BBE?style=flat)
-      ![AIM](https://img.shields.io/badge/-AIM-FF6F00?style=flat)
-      ![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=flat)
-      ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-      ![CML](https://img.shields.io/badge/-CML-13ADC7?style=flat)  
-
--->
-
-## Projects 
-
-### Agentic AI
-
-<table> <tr> <th>Project</th> <th>Repository Link</th> </tr> <tr> <td>Model Context Protocol (MCP)</td> <td><a href="https://github.com/AnkitaMungalpara/AgenticAI-Model-Context-Protocol">GitHub</a></td> </tr> </table>
-
-### Generative AI / NLP  
-
+<h3>✨ Generative AI / NLP</h3>
 <table>
   <tr>
     <th>Category</th>
     <th>Project</th>
-<!--     <th>Technological Stack</th> -->
-    <th>Repository Link</th>
+    <th>Repository</th>
   </tr>
-  
-  <!-- Transformers & LLMs Section -->
   <tr>
-      <td rowspan="3"><strong>Transformers & LLMs</strong></td>
-      <td>Fine-Tuning Mistral-7B with LoRA</td>
-      <td><a href="https://github.com/AnkitaMungalpara/Fine-Tuning-LLMs" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td>Building LLM From Scratch</td>
-      <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td>NLP with HuggingFace</td>
-      <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP" target="_blank">GitHub</a></td>
-    </tr>
-
-
-  <!-- Multimodal Models Section -->
+    <td rowspan="3"><strong>🧠 Transformers & LLMs</strong></td>
+    <td>Fine-Tuning Mistral-7B with LoRA</td>
+    <td><a href="https://github.com/AnkitaMungalpara/Fine-Tuning-LLMs/" target="_blank">🔗 GitHub</a></td>
+  </tr>
   <tr>
-    <td><b>Multimodal Model</b></td>
+    <td>Building LLM From Scratch</td>
+    <td><a href="https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch/" target="_blank">🔗 GitHub</a></td>
+  </tr>
+  <tr>
+    <td>NLP with HuggingFace</td>
+    <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP" target="_blank">🔗 GitHub</a></td>
+  </tr>
+  <tr>
+    <td><strong>🖼️ Multimodal Model</strong></td>
     <td>Building CLIP From Scratch</td>
-<!--     <td>
-      <img src="https://img.shields.io/badge/-Multimodal_AI-4B8BBE?style=flat">
-      <img src="https://img.shields.io/badge/-CLIP-13ADC7?style=flat">
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-    </td> -->
-    <td><a href="https://github.com/AnkitaMungalpara/Building-CLIP-From-Scratch/tree/0555e70ef5fce1ec5930d7d74c14c898780f0092">GitHub</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Building-CLIP-From-Scratch/" target="_blank">🔗 GitHub</a></td>
   </tr>
 </table>
 
 
 ### MLOps  
 
+<p>A curated list of practical projects covering the complete ML lifecycle — from training to deployment.</p>
+
 <table>
   <tr>
-    <th>Module</th>
-    <th>Project</th>
-    <th>Repository Link</th>
+    <th>📦 Module</th>
+    <th>📁 Project</th>
+    <th>🔗 Repository</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td>Dockerized Training with PyTorch</td>
+    <td>1️⃣</td>
+    <td><b>Dockerized Training with PyTorch</b></td>
     <td><a href="https://github.com/AnkitaMungalpara/dockerized-mnist-classification-pytorch/">GitHub</a></td>
   </tr>
   <tr>
-    <td>2</td>
-    <td>Dockerized Training Evaluation and Inference with PyTorch</td>
+    <td>2️⃣</td>
+    <td><b>Dockerized Training Evaluation and Inference with PyTorch</b></td>
     <td><a href="https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch/">GitHub</a></td>
   </tr>
   <tr>
-    <td>3</td>
-    <td>Containerized Training and Inference with PyTorch Lightning</td>
+    <td>3️⃣</td>
+    <td><b>Containerized Training and Inference with PyTorch Lightning</b></td>
     <td><a href="https://github.com/AnkitaMungalpara/Dog-Breed-Classification-Training-Inference-with-PyTorch-Lightning/">GitHub</a></td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>PyTorch Lightning with Hydra Integration</td>
+    <td>4️⃣</td>
+    <td><b>PyTorch Lightning with Hydra Integration</b></td>
     <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/">GitHub</a></td>
   </tr>
   <tr>
-    <td>5</td>
-    <td>Data Version Control</td>
-    <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/tree/2f19be524bf3a8d67eae77d8b62b6f562d1aaefe">GitHub</a></td>
+    <td>5️⃣</td>
+    <td><b>Data Version Control</b></td>
+    <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/">GitHub</a></td>
   </tr>
   <tr>
-    <td>6</td>
-    <td>Experiment Tracking and Hyperparameter Optimization</td>
-    <td><a href="https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/tree/7be961e0cfb337bb4ac781e7bcb936671201945d">GitHub</a></td>
+    <td>6️⃣</td>
+    <td><b>Experiment Tracking and Hyperparameter Optimization</b></td>
+    <td><a href="https://github.com/AnkitaMungalpara/HyperParameterTuning-ExperimentTracking/">GitHub</a></td>
   </tr>
-  
   <tr>
-    <td>7</td>
-    <td>Deployment with Gradio</td>
-    <td><a href="https://github.com/AnkitaMungalpara/DeepLearning-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/tree/c627e868dd79e708f1debf88427a974d4ddc7cea">GitHub</a></td>
+    <td>7️⃣</td>
+    <td><b>Deployment with Gradio</b></td>
+    <td><a href="https://github.com/AnkitaMungalpara/DeepLearning-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/">GitHub</a></td>
   </tr>
-  
   <tr>
-    <td>8</td>
-    <td>Deploying and Benchmarking Classifier with LitServe</td>
-    <td><a href="https://github.com/AnkitaMungalpara/AWS-Deployment-with-LitServe-MLOps/tree/0428ea2d7b15ed81a77f09bd4864037db4943370">GitHub</a></td>
+    <td>8️⃣</td>
+    <td><b>Deploying and Benchmarking Classifier with LitServe</b></td>
+    <td><a href="https://github.com/AnkitaMungalpara/AWS-Deployment-with-LitServe-MLOps/">GitHub</a></td>
   </tr>
-  
 </table>
-
 
 
 ### Computer Vision  
@@ -159,38 +115,26 @@ Welcome to my GitHub profile!
   <tr>
     <th>Category</th>
     <th>Project</th>
-<!--     <th>Technological Stack</th> -->
     <th>Repository Link</th>
   </tr>
   <tr>
     <td rowspan="2"><b>Object Detection</b></td>
     <td>YOLOv5 Custom Object Detection for Clothing Accessories</td>
-<!--     <td>
-      <img src="https://img.shields.io/badge/-Label_Studio-000000?style=flat">
-      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
-      <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/-YOLOv5-00FFFF?style=flat">
-    </td> -->
     <td><a href="https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection">GitHub</a></td>
   </tr>
   <tr>
-<!--     <td colspan="3"></td> -->
   </tr>
   <tr>
     <td rowspan="3"><b>Image Classification</b></td>
     <td>Brain Tumor Classification</td>
-<!--     <td>-</td> -->
     <td><a href="https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification I</td>
-<!--     <td>-</td> -->
     <td><a href="https://github.com/AnkitaMungalpara/CatDog-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl">GitHub</a></td>
   </tr>
   <tr>
     <td>Image Classification II</td>
-<!--     <td>-</td> -->
     <td><a href="https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration">GitHub</a></td>
   </tr>
 </table>
@@ -336,3 +280,6 @@ Welcome to my GitHub profile!
 - **Experiment Tracking & Optimization**: AIM, Optuna, Hyperparameter Tuning
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaMungalpara&show_icons=true&theme=tokyonight&rank_icon=github)
 -->
+
+
+
