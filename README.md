@@ -110,7 +110,7 @@
   <tr>
     <td>7️⃣</td>
     <td><b>Deployment with Gradio</b></td>
-    <td><a href="https://github.com/AnkitaMungalpara/DeepLearning-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/">GitHub</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/DeepLearning-Classification-with-PyTorch-Lightning-Hydra-and-DataVersionControl/tree/deploy-with-gradio">GitHub</a></td>
   </tr>
   <tr>
     <td>8️⃣</td>
