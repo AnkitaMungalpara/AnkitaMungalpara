@@ -8,13 +8,27 @@
 
 <h3 align="center">Welcome to my GitHub profile — where data meets deployment 🚀</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankita-mungalpara/" title="LinkedIn">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="https://ankitamungalpara.github.io/" title="Portfolio">Portfolio</a>
+  &nbsp;|&nbsp;
+  <a href="https://medium.com/@mungalpara.ankita" title="Medium">Medium</a>
+  &nbsp;|&nbsp;
+  <a href="https://substack.com/@ankitamungalpara" title="Substack">Substack</a>
+</p>
+
+
 ## 👩‍💻 About Me
 - 🎓 Currently pursuing an **M.S. in Data Science** at the **University of Massachusetts Dartmouth**
 - 🔬 Exploring **Deep Learning architectures**, **MLOps workflows**, and **cloud platforms** like **Azure ML** and **AWS**
 - 🤖 Passionate about **Generative AI**, **Language Models**, and **LLMs**
 - 🏅 [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0B)
-- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/ankita-mungalpara/)
 - 💜 Pronouns: **She/Her**
+
+<!--[LinkedIn](https://www.linkedin.com/in/ankita-mungalpara/) | [Portfolio](https://ankitamungalpara.github.io/) | [Medium](https://medium.com/@mungalpara.ankita) | [Substack](https://substack.com/@ankitamungalpara)-->
+
+
 
 
 <h2>🚀 Projects</h2>
