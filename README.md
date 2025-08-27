@@ -6,9 +6,13 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1dDB5d3Vkd2ZvMmV2dmZoNjZnaGZqbzA1d2Z5Zmprc2M2czd1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="450"/>
 </p> 
 ## 👩‍💻 About Me
+<h3 align="center">Welcome to my GitHub profile!</h2>
 -->
 
-- 🎓 **M.S. in Data Science** graduate from the **University of Massachusetts Dartmouth, Dartmouth, MA**
+
+
+
+- 🎓 **MS Data Science** graduate from the **University of Massachusetts Dartmouth, Dartmouth, MA**
 - 🔬 Skilled in designing **Deep Learning architectures**, building **MLOps pipelines**, and deploying solutions on **Azure ML, AWS, and GCP**  
 - 🤖 Passionate about **Generative AI, LLMs, and Multimodal Systems** with hands-on expertise in **fine-tuning, LoRA, and RAG pipelines**  
 - 🏅 [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0B)  
@@ -16,8 +20,6 @@
 - 💜 Pronouns: **She/Her** 
 
 <!--[LinkedIn](https://www.linkedin.com/in/ankita-mungalpara/) | [Portfolio](https://ankitamungalpara.github.io/) | [Medium](https://medium.com/@mungalpara.ankita) | [Substack](https://substack.com/@ankitamungalpara)-->
-
-<h3 align="center">Welcome to my GitHub profile!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankita-mungalpara/" title="LinkedIn">LinkedIn</a>
@@ -31,9 +33,9 @@
 
 
 
-<h2>🚀 Projects</h2>
+<h2>Projects</h2>
 
-<h3>🤖 Agentic AI</h3>
+<h3>Agentic AI</h3>
 
 <table>
   <tr>
@@ -41,7 +43,7 @@
     <th>🔗 Repository</th>
   </tr>
   <tr>
-    <td><strong>🧠 Model Context Protocol (MCP)</strong><br>
+    <td><strong>Model Context Protocol (MCP)</strong><br>
       <sub>Agent architecture for memory, context-switching, and tool interoperability</sub>
     </td>
     <td>
@@ -53,7 +55,7 @@
 </table>
 
 
-<h3>✨ Generative AI / NLP</h3>
+<h3>Generative AI / NLP</h3>
 <table>
   <tr>
     <th>📁 Category</th>
@@ -61,7 +63,7 @@
     <th>🔗 Repository</th>
   </tr>
   <tr>
-    <td rowspan="3"><strong>🧠 Transformers & LLMs</strong></td>
+    <td rowspan="3"><strong>Transformers & LLMs</strong></td>
     <td>Fine-Tuning Mistral-7B with LoRA</td>
     <td><a href="https://github.com/AnkitaMungalpara/Fine-Tuning-LLMs/" target="_blank">GitHub</a></td>
   </tr>
@@ -74,7 +76,7 @@
     <td><a href="https://github.com/AnkitaMungalpara/HuggingFace-NLP" target="_blank">GitHub</a></td>
   </tr>
   <tr>
-    <td><strong>🖼️ Multimodal Model</strong></td>
+    <td><strong>Multimodal Model</strong></td>
     <td>Building CLIP From Scratch</td>
     <td><a href="https://github.com/AnkitaMungalpara/Building-CLIP-From-Scratch/" target="_blank">GitHub</a></td>
   </tr>
@@ -133,7 +135,7 @@
   </tr>
 </table>
 
-<h3>🎯 Computer Vision</h3>
+<h3>Computer Vision</h3>
 
 <table>
   <thead>
@@ -166,7 +168,7 @@
 </table>
 
 
-<h3>🧠 Deep Learning</h3>
+<h3>Deep Learning</h3>
 
 <table>
   <thead>
@@ -207,7 +209,7 @@
 </table>
 
 
-<h3>💻 Programming & Algorithms</h3>
+<h3>Programming & Algorithms</h3>
 
 <table>
   <thead>
