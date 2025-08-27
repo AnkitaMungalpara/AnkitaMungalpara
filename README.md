@@ -1,12 +1,23 @@
 
 # 👋 Hi there, I'm Ankita!
 
-<p align="center">
-<!--   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/> -->
+<!--<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1dDB5d3Vkd2ZvMmV2dmZoNjZnaGZqbzA1d2Z5Zmprc2M2czd1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="450"/>
-</p>
+</p> 
+## 👩‍💻 About Me
+-->
 
-<h3 align="center">Welcome to my GitHub profile — where data meets deployment 🚀</h2>
+- 🎓 **M.S. in Data Science** graduate from the **University of Massachusetts Dartmouth, Dartmouth, MA**
+- 🔬 Skilled in designing **Deep Learning architectures**, building **MLOps pipelines**, and deploying solutions on **Azure ML, AWS, and GCP**  
+- 🤖 Passionate about **Generative AI, LLMs, and Multimodal Systems** with hands-on expertise in **fine-tuning, LoRA, and RAG pipelines**  
+- 🏅 [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0B)  
+- 💡 Bridging research and engineering to deliver **scalable AI solutions** in **healthcare, finance, and enterprise applications**  
+- 💜 Pronouns: **She/Her** 
+
+<!--[LinkedIn](https://www.linkedin.com/in/ankita-mungalpara/) | [Portfolio](https://ankitamungalpara.github.io/) | [Medium](https://medium.com/@mungalpara.ankita) | [Substack](https://substack.com/@ankitamungalpara)-->
+
+<h3 align="center">Welcome to my GitHub profile!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankita-mungalpara/" title="LinkedIn">LinkedIn</a>
@@ -17,17 +28,6 @@
   &nbsp;|&nbsp;
   <a href="https://substack.com/@ankitamungalpara" title="Substack">Substack</a>
 </p>
-
-
-## 👩‍💻 About Me
-- 🎓 Currently pursuing an **M.S. in Data Science** at the **University of Massachusetts Dartmouth**
-- 🔬 Exploring **Deep Learning architectures**, **MLOps workflows**, and **cloud platforms** like **Azure ML** and **AWS**
-- 🤖 Passionate about **Generative AI**, **Language Models**, and **LLMs**
-- 🏅 [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0B)
-- 💜 Pronouns: **She/Her**
-
-<!--[LinkedIn](https://www.linkedin.com/in/ankita-mungalpara/) | [Portfolio](https://ankitamungalpara.github.io/) | [Medium](https://medium.com/@mungalpara.ankita) | [Substack](https://substack.com/@ankitamungalpara)-->
-
 
 
 
