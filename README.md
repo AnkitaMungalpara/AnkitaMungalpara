@@ -1,21 +1,14 @@
 
 # 👋 Hi there, I'm Ankita!
 
-<!--<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1dDB5d3Vkd2ZvMmV2dmZoNjZnaGZqbzA1d2Z5Zmprc2M2czd1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="450"/>
-</p> 
-## 👩‍💻 About Me
-<h3 align="center">Welcome to my GitHub profile!</h2>
--->
 
 I am a researcher and data scientist with a strong foundation in Machine Learning, Generative AI, and Agentic AI. I hold a Master of Science in Data Science from the [University of Massachusetts – Dartmouth](https://www.umassd.edu/), a Master of Technology in Machine Intelligence from [Dhirubhai Ambani Institute of Information and Communication Technology](https://www.daiict.ac.in/), and a Bachelor of Engineering in Information Technology from [Gujarat Technological University](https://www.gtu.ac.in/). 
 
-Over the years, I have evolved from building predictive models and NLP solutions to designing and fine-tuning large-scale AI systems capable of understanding complex visual and textual data. My professional journey—from research at [Indian Space Research Organisation (ISRO)](https://www.isro.gov.in/) and advanced analytics at [Tiger Analytics](https://www.tigeranalytics.com/). I then pursued generative AI research in multimodal Visual Question Answering at UMass Dartmouth and further expanded my experience through a summer internship at [Johnson & Johnson Innovative Medicine](https://www.jnj.com/innovative-medicine). These experiences have equipped me to tackle challenging problems, deliver impactful solutions, and continuously learn and adapt.
+Over the years, I have evolved from building predictive models and NLP solutions to designing and fine-tuning large-scale AI systems capable of understanding complex visual and textual data. My professional journey—from research at [Indian Space Research Organisation (ISRO)](https://www.isro.gov.in/) to advanced analytics at [Tiger Analytics](https://www.tigeranalytics.com/). I then pursued generative AI research in multimodal Visual Question Answering at UMass Dartmouth and further expanded my experience through a summer internship at [Johnson & Johnson Innovative Medicine](https://www.jnj.com/innovative-medicine). These experiences have equipped me to tackle challenging problems, deliver impactful solutions, and continuously learn and adapt.
 
-I am a [Microsoft Certified Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0) and have [published research in Springer](https://link.springer.com/chapter/10.1007/978-3-031-43759-5_5), demonstrating my ability to apply data science techniques to extract actionable insights from complex data, contributing to critical studies like biomass estimation and carbon sequestration. [Read more](https://ankitamungalpara.github.io/docs/publication/)
+I am a [Microsoft Certified Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/ANKITAMUNGALPARA-0103/92D5DC7947B76E29?sharingId=5D1BD78496D5FA0) and have [published research in Springer](https://link.springer.com/chapter/10.1007/978-3-031-43759-5_5), demonstrating my ability to apply data science techniques to extract actionable insights from complex data, contributing to critical studies like biomass estimation and carbon sequestration. [Read more...](https://ankitamungalpara.github.io/docs/publication/)
 
-I'm passionate about solving complex problems, pushing the boundaries of AI research, and transforming emerging ideas into impactful, real-world solutions. 
+I am passionate about solving complex problems, pushing the boundaries of AI research, and transforming emerging ideas into impactful, real-world solutions. 
 
 
 <!--[LinkedIn](https://www.linkedin.com/in/ankita-mungalpara/) | [Portfolio](https://ankitamungalpara.github.io/) | [Medium](https://medium.com/@mungalpara.ankita) | [Substack](https://substack.com/@ankitamungalpara)-->
