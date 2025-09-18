@@ -23,13 +23,12 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
   <a href="https://substack.com/@ankitamungalpara" title="Substack">Substack</a>
 </p>
 
-
 <h2>Projects</h2>
 
 - [Understanding Model Context Protocol (MCP) Through Automating PowerPoint](https://github.com/AnkitaMungalpara/AgenticAI-Model-Context-Protocol): Utilized the Model Context Protocol (MCP) to automate PowerPoint presentation tasks, integrating Large Language Models (LLMs) with external tools. [Read more](https://ankitamungalpara.github.io/docs/agentic-ai/2025-04-05-mcp.html)
 - [Managing Memory, Context, and State in an AI Agent](https://ankitamungalpara.github.io/docs/agentic-ai/memory_context_in_agent.html): Designed an agentic AI pipeline integrating memory, context, and state management to enable autonomous decision-making and multi-step reasoning (showing example of mathematical reasoning agent).
-
-
+- [Building CLIP From Scratch](https://ankitamungalpara.github.io/docs/generative-ai/2025-02-21-clip-from-scratch.html): Trained a CLIP model from scratch using contrastive learning, enabling zero-shot image-text understanding and deployed on Hugging Face.
+- [Fine-Tuning Mistral-7B Model with LoRA: Sentiment Classification](https://ankitamungalpara.github.io/docs/generative-ai/2025-04-05-finetune-with-lora.html): Developed a parameter-efficient fine-tuning approach for Mistral-7B, a large language model, to perform sentiment classification while optimizing computational resources.
 
 
 
