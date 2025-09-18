@@ -24,27 +24,13 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
 </p>
 
 
-
 <h2>Projects</h2>
 
-<h3>Agentic AI</h3>
+- [Understanding Model Context Protocol (MCP) Through Automating PowerPoint](https://github.com/AnkitaMungalpara/AgenticAI-Model-Context-Protocol): Utilized the Model Context Protocol (MCP) to automate PowerPoint presentation tasks, integrating Large Language Models (LLMs) with external tools. [Read more](https://ankitamungalpara.github.io/docs/agentic-ai/2025-04-05-mcp.html)
+- [Managing Memory, Context, and State in an AI Agent](https://ankitamungalpara.github.io/docs/agentic-ai/memory_context_in_agent.html): Designed an agentic AI pipeline integrating memory, context, and state management to enable autonomous decision-making and multi-step reasoning (showing example of mathematical reasoning agent).
 
-<table>
-  <tr>
-    <th>🛠️ Project</th>
-    <th>🔗 Repository</th>
-  </tr>
-  <tr>
-    <td><strong>Model Context Protocol (MCP)</strong><br>
-      <sub>Agent architecture for memory, context-switching, and tool interoperability</sub>
-    </td>
-    <td>
-      <a href="https://github.com/AnkitaMungalpara/AgenticAI-Model-Context-Protocol/" target="_blank">
-        View on GitHub
-      </a>
-    </td>
-  </tr>
-</table>
+
+
 
 
 <h3>Generative AI / NLP</h3>
