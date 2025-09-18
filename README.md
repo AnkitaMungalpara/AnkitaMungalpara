@@ -11,12 +11,12 @@ I am a [Microsoft Certified Azure Data Scientist Associate](https://learn.micros
 I am passionate about solving complex problems, pushing the boundaries of AI research, and transforming emerging ideas into impactful, real-world solutions. 
 
 
-<!--[LinkedIn](https://www.linkedin.com/in/ankita-mungalpara/) | [Portfolio](https://ankitamungalpara.github.io/) | [Medium](https://medium.com/@mungalpara.ankita) | [Substack](https://substack.com/@ankitamungalpara)-->
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ankita-mungalpara/" title="LinkedIn">LinkedIn</a>
   &nbsp;|&nbsp;
   <a href="https://ankitamungalpara.github.io/" title="Portfolio">Portfolio</a>
+  &nbsp;|&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=MOk9JXkAAAAJ" title="Google Scholar">Google Scholar</a>
   &nbsp;|&nbsp;
   <a href="https://medium.com/@mungalpara.ankita" title="Medium">Medium</a>
   &nbsp;|&nbsp;
