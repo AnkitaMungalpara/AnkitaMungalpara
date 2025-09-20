@@ -46,7 +46,7 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
 
   **Topics:** Tokenization, Text Preprocessing, Batching, Dynamic Padding, Trainer API
 
-- [YOLOv5 Custom Object Detection Trained From Scratch on Fashion Accessories](https://ankitamungalpara.github.io/docs/computer-vision/yolo-object-detection.html): Developed a custom YOLOv5 model training pipeline to detect and classify fashion accessories like shirts, pants, shoes, handbags, and sunglasses, achieving high accuracy.
+- [YOLOv5 Custom Object Detection Trained From Scratch on Fashion Accessories](https://ankitamungalpara.github.io/docs/computer-vision/yolo-object-detection.html): Developed a custom YOLOv5 model training to detect and classify fashion accessories like shirts, pants, shoes, handbags, and sunglasses, achieving high accuracy.
 
   **Topics:** YOLOv5, Object Detection, Computer Vision, Deep Learning, Data Annotation, Running Inference
 
