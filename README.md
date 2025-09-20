@@ -46,9 +46,29 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
 
   **Topics:** Tokenization, Text Preprocessing, Batching, Dynamic Padding, Trainer API
 
-- [YOLOv5 Custom Object Detection Trained From Scratch on Fashion Accessories](https://ankitamungalpara.github.io/docs/computer-vision/yolo-object-detection.html): Developed a custom YOLOv5 model training to detect and classify fashion accessories like shirts, pants, shoes, handbags, and sunglasses, achieving high accuracy.
+- [YOLO Custom Object Detection Trained From Scratch on Fashion Accessories](https://ankitamungalpara.github.io/docs/computer-vision/yolo-object-detection.html): Developed a custom YOLO model training to detect and classify fashion accessories like shirts, pants, shoes, handbags, and sunglasses, achieving high accuracy.
+  
+  **Topics:** YOLO, Object Detection, Computer Vision, Deep Learning, Data Annotation, Running Inference
+  
+- [Kubernetes Part 1: Ingress & FastAPI Model Deployment](https://ankitamungalpara.github.io/docs/mlops/deploying-fastAPI-models-on-k8s-with-ingress.html): Built a production-like setup deploying a FastAPI model server on Kubernetes with Ingress and Redis caching to serve API requests quickly and reliably.
 
-  **Topics:** YOLOv5, Object Detection, Computer Vision, Deep Learning, Data Annotation, Running Inference
+  **Topics:**  Dockerization, Kubernetes (Deployments, Services, Ingress), FastAPI, Redis Caching, ONNX Model Serving
+  
+- [Deploying and Benchmarking an Image Classifier with LitServe](https://ankitamungalpara.github.io/docs/mlops/deployment-with-litserve.html): Built and deployed an image classifier with LitServe on AWS, delivering fast, reliable, and scalable model inference.
+  
+  **Topics:** MLOps, LitServe, Image Classifier Deployment, AWS, Performance Benchmarking
+  
+- [Deployment with Gradio](https://ankitamungalpara.github.io/docs/mlops/deployment-with-gradio.html): Deployed machine learning models with Gradio by building interactive web apps, exporting models with TorchScript, and enabling fast, user-friendly testing and sharing in real-world workflows.
+  
+  **Topics:** Gradio, TorchScript, MLOps, Image Classification, Apple’s Depth Pro Model Deployment, Tracing, Scripting
+
+- 
+
+
+
+
+
+
 
   
 
