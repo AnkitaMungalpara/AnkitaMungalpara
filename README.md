@@ -34,7 +34,15 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
   
   **Topics:** Generative AI, LangChain, Chat Models, Prompt Engineering, Output Parsers
 
-- [NLP with Hugging Face](https://ankitamungalpara.github.io/docs/generative-ai/nlp-with-huggingface/)
+- [Building LLM From Scratch](https://ankitamungalpara.github.io/docs/generative-ai/llm-from-scratch/): Implemented all core stages of creating a large language model—dataset preprocessing, tokenization, designing the architecture, and building training pipelines—to understand what powers modern generative AI.
+  
+  **Topics Covered:** Tokenization, Byte Pair Encoding, Data Sampling, Embeddings, Self-Attention    
+
+- [NLP with Hugging Face](https://ankitamungalpara.github.io/docs/generative-ai/nlp-with-huggingface/): Utilized HuggingFace Transformers to build and fine-tune NLP pipelines, from tokenization to multi-sequence processing and training on accelerators, for scalable performance.
+
+  **Topics:** Tokenization, Text Preprocessing, Batching, Dynamic Padding, Trainer API
+
+- 
 
 
 
