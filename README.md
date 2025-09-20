@@ -30,6 +30,13 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
 - [Building CLIP From Scratch](https://ankitamungalpara.github.io/docs/generative-ai/2025-02-21-clip-from-scratch.html): Trained a CLIP model from scratch using contrastive learning, enabling zero-shot image-text understanding and deployed on Hugging Face.
 - [Fine-Tuning Mistral-7B Model with LoRA: Sentiment Classification](https://ankitamungalpara.github.io/docs/generative-ai/2025-04-05-finetune-with-lora.html): Developed a parameter-efficient fine-tuning (PEFT) pipeline with LoRA (Low-Rank Adaptation) for Mistral-7B, to perform sentiment classification while optimized computational resources.
 - [Fine-Tuning Mistral-7B with QLoRA for Financial Q&A](https://ankitamungalpara.github.io/docs/generative-ai/finetune-with-qlora.html): Fine-tuned the Mistral-7B model using QLoRA (Quantized LoRA) to perform financial question-answering, optimizing resources for efficiency.
+- [Generative AI with LangChain](https://ankitamungalpara.github.io/docs/generative-ai/langchain/): Developed core and advanced LangChain concepts—from prompt templates and output parsers to streaming and cost tracking—to build efficient conversational AI systems with open-source (Hugging Face, Ollama) and closed-source (OpenAI, Anthropic) APIs.
+  
+  **Topics:** Generative AI, LangChain, Chat Models, Prompt Engineering, Output Parsers
+
+- [NLP with Hugging Face](https://ankitamungalpara.github.io/docs/generative-ai/nlp-with-huggingface/)
+
+
 
 
 
