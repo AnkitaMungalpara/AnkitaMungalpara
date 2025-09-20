@@ -78,21 +78,14 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
 
   **Topics:** PyTorch, Docker Compose, Model (Training, Evaluation, Inference), MNIST Dataset
 
-- 
+- [LeetCode Solutions](https://github.com/AnkitaMungalpara/Leetcode-Solutions): A collection of Python solutions to various LeetCode problems, focusing on clarity and efficiency to improve problem-solving skills.
+
+  **Topics:** Arrays, Strings, Linked Lists, Trees, Dynamic Programming, Recursion, Sorting, Searching, Graphs, Backtracking, Bit Manipulation, Greedy Algorithms
 
 
 
 
 
-
-
-
-
-
-
-
-
-  
 
 
 
@@ -124,7 +117,7 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
     <td>Building CLIP From Scratch</td>
     <td><a href="https://github.com/AnkitaMungalpara/Building-CLIP-From-Scratch/" target="_blank">GitHub</a></td>
   </tr>
-</table>-->
+</table>
 
 
 <h3>MLOps</h3>
@@ -272,7 +265,7 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
   </tbody>
 </table>
 
-
+-->
 
 ## Blogs
 - [Building CLIP From Scratch: Unfolding Story Behind Pixels](https://medium.com/@mungalpara.ankita/building-clip-from-scratch-unfolding-story-behind-pixels-38f1e9fd5e0d)
