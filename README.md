@@ -25,6 +25,10 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
 
 <h2>Projects</h2>
 
+- [Document Intelligence: Modern Approaches to Extracting Structured Information](https://ankitamungalpara.github.io/docs/generative-ai/document-ai/): Applied state-of-the-art frameworks and research papers—including PaperMage, DONUT, and Nougat—to extract structured data from complex documents such as invoices, receipts, and scientific papers.
+  
+  **Topics:** Document Intelligence, Vision Encoder, Text Decoder, Document Question Answering
+
 - [Understanding Model Context Protocol (MCP) Through Automating PowerPoint](https://github.com/AnkitaMungalpara/AgenticAI-Model-Context-Protocol): Utilized the Model Context Protocol (MCP) to automate PowerPoint presentation tasks, integrating Large Language Models (LLMs) with external tools. [Read more](https://ankitamungalpara.github.io/docs/agentic-ai/2025-04-05-mcp.html)
 - [Managing Memory, Context, and State in an AI Agent](https://ankitamungalpara.github.io/docs/agentic-ai/memory_context_in_agent.html): Designed an agentic AI pipeline integrating memory, context, and state management to enable autonomous decision-making and multi-step reasoning (showing example of mathematical reasoning agent).
 - [Building CLIP From Scratch](https://ankitamungalpara.github.io/docs/generative-ai/2025-02-21-clip-from-scratch.html): Trained a CLIP model from scratch using contrastive learning, enabling zero-shot image-text understanding and deployed on Hugging Face.
@@ -36,7 +40,7 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
 
 - [Building LLM From Scratch](https://ankitamungalpara.github.io/docs/generative-ai/llm-from-scratch/): Implemented all core stages of creating a large language model—dataset preprocessing, tokenization, designing the architecture, and building training pipelines—to understand what powers modern generative AI.
   
-  **Topics Covered:** Tokenization, Byte Pair Encoding, Data Sampling, Embeddings, Self-Attention    
+  **Topics:** Tokenization, Byte Pair Encoding, Data Sampling, Embeddings, Self-Attention    
 
 - [NLP with Hugging Face](https://ankitamungalpara.github.io/docs/generative-ai/nlp-with-huggingface/): Utilized HuggingFace Transformers to build and fine-tune NLP pipelines, from tokenization to multi-sequence processing and training on accelerators, for scalable performance.
 
