@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Ankita!
+# Hi there, I'm Ankita!
 
 
 I am a researcher and data scientist with a strong foundation in Machine Learning, Generative AI, and Agentic AI. I hold a Master of Science in Data Science from the [University of Massachusetts – Dartmouth](https://www.umassd.edu/), a Master of Technology in Machine Intelligence from [Dhirubhai Ambani Institute of Information and Communication Technology](https://www.daiict.ac.in/), and a Bachelor of Engineering in Information Technology from [Gujarat Technological University](https://www.gtu.ac.in/). 
@@ -58,10 +58,18 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
   
   **Topics:** MLOps, LitServe, Image Classifier Deployment, AWS, Performance Benchmarking
   
-- [Deployment with Gradio](https://ankitamungalpara.github.io/docs/mlops/deployment-with-gradio.html): Deployed machine learning models with Gradio by building interactive web apps, exporting models with TorchScript, and enabling fast, user-friendly testing and sharing in real-world workflows.
+- [ML Deployment with Gradio](https://ankitamungalpara.github.io/docs/mlops/deployment-with-gradio.html): Deployed machine learning models with Gradio by building interactive web apps, exporting models with TorchScript, and enabling fast, user-friendly testing and sharing in real-world workflows.
   
   **Topics:** Gradio, TorchScript, MLOps, Image Classification, Apple’s Depth Pro Model Deployment, Tracing, Scripting
 
+- [Hyperparameter Tuning & Experiment Tracking](https://ankitamungalpara.github.io/docs/mlops/hyperparameter-tuning.html): Applied state-of-the-art tools to optimize an image classification model’s hyperparameters with experiment tracking and versioning, boosting model performance and reproducibility.
+  
+  **Topics:** Hyperparameter Tuning, Experiment Tracking, MLOps, Data Version Control (DVC), Aim, MLFlow, Continuous Machine Learning (CML), Hydra, Optuna 
+  
+- [Image Classification with PyTorch Lightning & Hydra](https://github.com/AnkitaMungalpara/DogBreed_Classification_pyTorch_Lightning_Hydra_Integration/): Built a deep learning model for classification task with PyTorch Lightning and Hydra, enabling fast experimentation and reliable deployment.
+
+  **Topics:** Computer Vision, PyTorch Lightning, Hydra, Docker, CI/CD
+  
 - 
 
 
