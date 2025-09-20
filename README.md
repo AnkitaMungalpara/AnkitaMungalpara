@@ -70,7 +70,21 @@ I am passionate about solving complex problems, pushing the boundaries of AI res
 
   **Topics:** Computer Vision, PyTorch Lightning, Hydra, Docker, CI/CD
   
+- [Brain Tumor Classification with PyTorch Lightning & Docker Compose](https://github.com/AnkitaMungalpara/Brain-Tumor-Classification-with-PyTorch-Lightning-Docker-Compose): Developed a pipeline using PyTorch Lightning and Docker Compose that classifies MRI brain scans into tumor types (glioma, meningioma, pituitary, and no tumor), ensuring consistent, scalable, and reproducible results.
+  
+  **Topics:** Deep Learning, PyTorch Lightning, Docker Compose
+  
+- [MNIST Digit Classification using Docker Compose: Training, Evaluation & Inference](https://github.com/AnkitaMungalpara/Dockerized-training-evaluation-inference-with-PyTorch/): Built an ML pipeline using Docker Compose to perform training, evaluation, and inference for the MNIST dataset using PyTorch.
+
+  **Topics:** PyTorch, Docker Compose, Model (Training, Evaluation, Inference), MNIST Dataset
+
 - 
+
+
+
+
+
+
 
 
 
